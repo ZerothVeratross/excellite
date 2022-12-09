@@ -37,15 +37,15 @@
       "dest_warp_id": "0"
     },
     {
-      "x": 19,
-      "y": 17,
+      "x": 13,
+      "y": 18,
       "elevation": 0,
       "dest_map": "MAP_DEV_ROOM",
       "dest_warp_id": "0"
     },
     {
-      "x": 1,
-      "y": 17,
+      "x": 7,
+      "y": 18,
       "elevation": 0,
       "dest_map": "MAP_PETALBURG_WOODS",
       "dest_warp_id": "0"
