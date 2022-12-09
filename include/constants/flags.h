@@ -656,8 +656,8 @@
 #define FLAG_UNUSED_0x266  0x266 // Petalburg Woods hidden Protein
 #define FLAG_UNUSED_0x267  0x267 // Petalburg Woods hidden Carbos
 #define FLAG_UNUSED_0x268  0x268 // Petalburg Woods hidden Protein 2
-#define FLAG_UNUSED_0x269  0x269 // Unused Flag
-#define FLAG_UNUSED_0x26A  0x26A // Unused Flag
+#define FLAG_UNUSED_0x269  0x269 // Petalburg Woods hidden Super Repel
+#define FLAG_UNUSED_0x26A  0x26A // Petalburg Woods hidden Super Repel 2
 #define FLAG_UNUSED_0x26B  0x26B // Unused Flag
 #define FLAG_UNUSED_0x26C  0x26C // Unused Flag
 #define FLAG_UNUSED_0x26D  0x26D // Unused Flag
@@ -1228,7 +1228,7 @@
 #define FLAG_UNUSED_0x49B                                           0x49B // Petalburg Woods super potion
 #define FLAG_UNUSED_0x49C                                           0x49C // Petalburg Woods Rare Candy
 #define FLAG_UNUSED_0x49D                                           0x49D // Petalburg Woods Full Heal
-#define FLAG_UNUSED_0x49E                                           0x49E // Unused Flag
+#define FLAG_UNUSED_0x49E                                           0x49E // Dev room ball Master Ball
 #define FLAG_UNUSED_0x49F                                           0x49F // Unused Flag
 #define FLAG_UNUSED_0x4A0                                           0x4A0 // Unused Flag
 #define FLAG_UNUSED_0x4A1                                           0x4A1 // Unused Flag

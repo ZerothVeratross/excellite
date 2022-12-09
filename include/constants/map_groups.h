@@ -400,6 +400,7 @@
 #define MAP_TERRA_CAVE_END                           (105 | (24 << 8))
 #define MAP_ALTERING_CAVE                            (106 | (24 << 8))
 #define MAP_METEOR_FALLS_STEVENS_CAVE                (107 | (24 << 8))
+#define MAP_PETALBURG_WOODS_PASSAGE                  (108 | (24 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (25 << 8))
@@ -464,6 +465,7 @@
 #define MAP_BATTLE_PYRAMID_SQUARE16  (59 | (25 << 8))
 #define MAP_UNION_ROOM               (60 | (25 << 8))
 #define MAP_DEV_ROOM                 (61 | (25 << 8))
+#define MAP_SUPER_SECRET_BASE_TREE1  (62 | (25 << 8))
 
 // gMapGroup_SpecialArea
 #define MAP_SAFARI_ZONE_NORTHWEST                           (0 | (26 << 8))

@@ -290,39 +290,39 @@
     {
       "graphics_id": "OBJ_EVENT_GFX_BERRY_TREE",
       "x": 61,
-      "y": 39,
+      "y": 38,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "0",
+      "trainer_sight_or_berry_tree_id": "BERRY_TREE_PETALBURG_WOODS_POMEG",
       "script": "BerryTreeScript",
       "flag": "0"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BERRY_TREE",
       "x": 62,
-      "y": 39,
+      "y": 38,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "0",
+      "trainer_sight_or_berry_tree_id": "BERRY_TREE_PETALBURG_WOODS_ORAN_1",
       "script": "BerryTreeScript",
       "flag": "0"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BERRY_TREE",
       "x": 63,
-      "y": 39,
+      "y": 38,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "0",
+      "trainer_sight_or_berry_tree_id": "BERRY_TREE_PETALBURG_WOODS_ORAN_2",
       "script": "BerryTreeScript",
       "flag": "0"
     }
@@ -374,15 +374,15 @@
       "x": 76,
       "y": 41,
       "elevation": 0,
-      "dest_map": "MAP_PETALBURG_WOODS",
+      "dest_map": "MAP_PETALBURG_WOODS_PASSAGE",
       "dest_warp_id": "0"
     },
     {
       "x": 86,
       "y": 40,
       "elevation": 0,
-      "dest_map": "MAP_PETALBURG_WOODS",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_PETALBURG_WOODS_PASSAGE",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [
@@ -493,6 +493,36 @@
       "elevation": 0,
       "item": "ITEM_PROTEIN",
       "flag": "FLAG_UNUSED_0x268"
+    },
+    {
+      "type": "hidden_item",
+      "x": 81,
+      "y": 22,
+      "elevation": 0,
+      "item": "ITEM_SUPER_REPEL",
+      "flag": "FLAG_UNUSED_0x269"
+    },
+    {
+      "type": "hidden_item",
+      "x": 76,
+      "y": 16,
+      "elevation": 0,
+      "item": "ITEM_SUPER_REPEL",
+      "flag": "FLAG_UNUSED_0x26A"
+    },
+    {
+      "type": "secret_base",
+      "x": 80,
+      "y": 9,
+      "elevation": 0,
+      "secret_base_id": "SECRET_BASE_RED_CAVE1_1"
+    },
+    {
+      "type": "secret_base",
+      "x": 81,
+      "y": 9,
+      "elevation": 0,
+      "secret_base_id": "SECRET_BASE_RED_CAVE1_1"
     }
   ]
 }

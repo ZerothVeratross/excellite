@@ -430,7 +430,8 @@
     "TerraCave_Entrance",
     "TerraCave_End",
     "AlteringCave",
-    "MeteorFalls_StevensCave"
+    "MeteorFalls_StevensCave",
+    "PetalburgWoods_Passage"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",
@@ -494,7 +495,8 @@
     "BattlePyramidSquare15",
     "BattlePyramidSquare16",
     "UnionRoom",
-    "DevRoom"
+    "DevRoom",
+    "SuperSecretBase_Tree1"
   ],
   "gMapGroup_SpecialArea": [
     "SafariZone_Northwest",

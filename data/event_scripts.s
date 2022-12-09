@@ -1061,3 +1061,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/birch_speech.inc"
 
 	.include "data/maps/DevRoom/scripts.inc"
+
+	.include "data/maps/SuperSecretBase_Tree1/scripts.inc"
+
+	.include "data/maps/PetalburgWoods_Passage/scripts.inc"

@@ -4420,6 +4420,26 @@
       "secondary_tileset": "gTileset_SecretBaseTree",
       "border_filepath": "data/layouts/DevRoom/border.bin",
       "blockdata_filepath": "data/layouts/DevRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_SUPER_SECRET_BASE_TREE1",
+      "name": "SuperSecretBase_Tree1_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_SecretBase",
+      "secondary_tileset": "gTileset_SecretBaseTree",
+      "border_filepath": "data/layouts/SuperSecretBase_Tree1/border.bin",
+      "blockdata_filepath": "data/layouts/SuperSecretBase_Tree1/map.bin"
+    },
+    {
+      "id": "LAYOUT_PETALBURG_WOODS_PASSAGE",
+      "name": "PetalburgWoods_Passage_Layout",
+      "width": 60,
+      "height": 8,
+      "primary_tileset": "gTileset_SecretBase",
+      "secondary_tileset": "gTileset_SecretBaseShrub",
+      "border_filepath": "data/layouts/PetalburgWoods_Passage/border.bin",
+      "blockdata_filepath": "data/layouts/PetalburgWoods_Passage/map.bin"
     }
   ]
 }

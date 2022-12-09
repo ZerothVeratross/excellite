@@ -701,3 +701,16 @@ DevRoom_EventScript_ItemHM07Waterfall::
 DevRoom_EventScript_ItemHM08Dive::
 	finditem ITEM_HM08_DIVE
 	end
+
+// Unlock all field HM moves for developer
+DevRoom_EventScript_DeveloperUnlocks::
+	finditem ITEM_MASTER_BALL
+	setflag FLAG_BADGE01_GET
+	setflag FLAG_BADGE02_GET
+	setflag FLAG_BADGE03_GET
+	setflag FLAG_BADGE04_GET
+	setflag FLAG_BADGE05_GET
+	setflag FLAG_BADGE06_GET
+	setflag FLAG_BADGE07_GET
+	setflag FLAG_BADGE08_GET
+	end
