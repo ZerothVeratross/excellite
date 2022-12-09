@@ -705,6 +705,7 @@ DevRoom_EventScript_ItemHM08Dive::
 // Unlock all field HM moves for developer
 DevRoom_EventScript_DeveloperUnlocks::
 	finditem ITEM_MASTER_BALL
+	finditem ITEM_TM43_SECRET_POWER
 	setflag FLAG_BADGE01_GET
 	setflag FLAG_BADGE02_GET
 	setflag FLAG_BADGE03_GET

@@ -219,7 +219,7 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
+      "script": "PetalburgWoods_EventScript_ItemSuperPotion",
       "flag": "FLAG_UNUSED_0x49B"
     },
     {
@@ -515,14 +515,14 @@
       "x": 80,
       "y": 9,
       "elevation": 0,
-      "secret_base_id": "SECRET_BASE_RED_CAVE1_1"
+      "secret_base_id": "SUPER_SECRET_BASE_TREE1_1"
     },
     {
       "type": "secret_base",
       "x": 81,
       "y": 9,
       "elevation": 0,
-      "secret_base_id": "SECRET_BASE_RED_CAVE1_1"
+      "secret_base_id": "SUPER_SECRET_BASE_TREE1_2"
     }
   ]
 }

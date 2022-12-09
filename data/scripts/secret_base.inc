@@ -37,6 +37,12 @@ SecretBase_EventScript_CheckEntrance::
 	goto_if_eq VAR_0x8007, SECRET_BASE_YELLOW_CAVE, SecretBase_EventScript_Cave
 	goto_if_eq VAR_0x8007, SECRET_BASE_TREE, SecretBase_EventScript_Tree
 	goto_if_eq VAR_0x8007, SECRET_BASE_SHRUB, SecretBase_EventScript_Shrub
+	goto_if_eq VAR_0x8007, SUPER_SECRET_BASE_RED_CAVE, SecretBase_EventScript_Cave
+	goto_if_eq VAR_0x8007, SUPER_SECRET_BASE_BROWN_CAVE, SecretBase_EventScript_Cave
+	goto_if_eq VAR_0x8007, SUPER_SECRET_BASE_BLUE_CAVE, SecretBase_EventScript_Cave
+	goto_if_eq VAR_0x8007, SUPER_SECRET_BASE_YELLOW_CAVE, SecretBase_EventScript_Cave
+	goto_if_eq VAR_0x8007, SUPER_SECRET_BASE_TREE, SecretBase_EventScript_Tree
+	goto_if_eq VAR_0x8007, SUPER_SECRET_BASE_SHRUB, SecretBase_EventScript_Shrub
 	end
 
 SecretBase_EventScript_Cave::
