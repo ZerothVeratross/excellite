@@ -12,11 +12,11 @@
 #define FLAG_TEMP_2      (TEMP_FLAGS_START + 0x2)
 #define FLAG_TEMP_3      (TEMP_FLAGS_START + 0x3)
 #define FLAG_TEMP_4      (TEMP_FLAGS_START + 0x4)
-#define FLAG_TEMP_5      (TEMP_FLAGS_START + 0x5)  // Tree with id_14 in Petalburg
-#define FLAG_TEMP_6      (TEMP_FLAGS_START + 0x6)  // Tree with id_15 in Petalburg
-#define FLAG_TEMP_7      (TEMP_FLAGS_START + 0x7)  // Unused Flag
-#define FLAG_TEMP_8      (TEMP_FLAGS_START + 0x8)  // Unused Flag
-#define FLAG_TEMP_9      (TEMP_FLAGS_START + 0x9)  // Unused Flag
+#define FLAG_TEMP_5      (TEMP_FLAGS_START + 0x5)  // Tree with id_14 in Petalburg Woods
+#define FLAG_TEMP_6      (TEMP_FLAGS_START + 0x6)  // Tree with id_15 in Petalburg Woods
+#define FLAG_TEMP_7      (TEMP_FLAGS_START + 0x7)  // Rock with id_19 in Petalburg Woods
+#define FLAG_TEMP_8      (TEMP_FLAGS_START + 0x8)  // Rock with id_20 in Petalburg Woods
+#define FLAG_TEMP_9      (TEMP_FLAGS_START + 0x9)  // Rock with id_21 in Petalburg Woods
 #define FLAG_TEMP_A      (TEMP_FLAGS_START + 0xA)  // Unused Flag
 #define FLAG_TEMP_B      (TEMP_FLAGS_START + 0xB)  // Unused Flag
 #define FLAG_TEMP_C      (TEMP_FLAGS_START + 0xC)  // Unused Flag
@@ -651,11 +651,11 @@
 #define FLAG_HIDDEN_ITEM_ROUTE_123_RARE_CANDY                (FLAG_HIDDEN_ITEMS_START + 0x6E)
 #define FLAG_HIDDEN_ITEM_ROUTE_105_BIG_PEARL                 (FLAG_HIDDEN_ITEMS_START + 0x6F)
 
-#define FLAG_UNUSED_0x264  0x264 // Unused Flag
-#define FLAG_UNUSED_0x265  0x265 // Unused Flag
-#define FLAG_UNUSED_0x266  0x266 // Unused Flag
-#define FLAG_UNUSED_0x267  0x267 // Unused Flag
-#define FLAG_UNUSED_0x268  0x268 // Unused Flag
+#define FLAG_UNUSED_0x264  0x264 // Petalburg Woods hidden Revive
+#define FLAG_UNUSED_0x265  0x265 // Petalburg Woods hidden Great Ball
+#define FLAG_UNUSED_0x266  0x266 // Petalburg Woods hidden Protein
+#define FLAG_UNUSED_0x267  0x267 // Petalburg Woods hidden Carbos
+#define FLAG_UNUSED_0x268  0x268 // Petalburg Woods hidden Protein 2
 #define FLAG_UNUSED_0x269  0x269 // Unused Flag
 #define FLAG_UNUSED_0x26A  0x26A // Unused Flag
 #define FLAG_UNUSED_0x26B  0x26B // Unused Flag
@@ -1225,9 +1225,9 @@
 #define FLAG_UNUSED_0x498                                           0x498 // Dev room ball rock smash
 #define FLAG_UNUSED_0x499                                           0x499 // Dev room ball waterfall
 #define FLAG_UNUSED_0x49A                                           0x49A // Dev room ball dive
-#define FLAG_UNUSED_0x49B                                           0x49B // Unused Flag
-#define FLAG_UNUSED_0x49C                                           0x49C // Unused Flag
-#define FLAG_UNUSED_0x49D                                           0x49D // Unused Flag
+#define FLAG_UNUSED_0x49B                                           0x49B // Petalburg Woods super potion
+#define FLAG_UNUSED_0x49C                                           0x49C // Petalburg Woods Rare Candy
+#define FLAG_UNUSED_0x49D                                           0x49D // Petalburg Woods Full Heal
 #define FLAG_UNUSED_0x49E                                           0x49E // Unused Flag
 #define FLAG_UNUSED_0x49F                                           0x49F // Unused Flag
 #define FLAG_UNUSED_0x4A0                                           0x4A0 // Unused Flag

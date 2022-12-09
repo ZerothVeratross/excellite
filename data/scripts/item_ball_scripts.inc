@@ -338,6 +338,18 @@ PetalburgWoods_EventScript_ItemEther::
 	finditem ITEM_ETHER
 	end
 
+PetalburgWoods_EventScript_ItemSuperPotion::
+	finditem ITEM_SUPER_POTION
+	end
+
+PetalburgWoods_EventScript_ItemFullHeal::
+	finditem ITEM_FULL_HEAL
+	end
+
+PetalburgWoods_EventScript_ItemRareCandy::
+	finditem ITEM_RARE_CANDY
+	end
+
 PetalburgWoods_EventScript_ItemParalyzeHeal::
 	finditem ITEM_PARALYZE_HEAL
 	end
