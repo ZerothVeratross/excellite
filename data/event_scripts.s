@@ -1065,3 +1065,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/SuperSecretBase_Tree1/scripts.inc"
 
 	.include "data/maps/PetalburgWoods_Passage/scripts.inc"
+
+	.include "data/maps/DesertCave/scripts.inc"
+
+	.include "data/maps/CaveOfOrigin_B2F/scripts.inc"

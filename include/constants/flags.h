@@ -1229,7 +1229,7 @@
 #define FLAG_UNUSED_0x49C                                           0x49C // Petalburg Woods Rare Candy
 #define FLAG_UNUSED_0x49D                                           0x49D // Petalburg Woods Full Heal
 #define FLAG_UNUSED_0x49E                                           0x49E // Dev room ball Master Ball
-#define FLAG_UNUSED_0x49F                                           0x49F // Unused Flag
+#define FLAG_UNUSED_0x49F                                           0x49F // Dev room Go Goggles
 #define FLAG_UNUSED_0x4A0                                           0x4A0 // Unused Flag
 #define FLAG_UNUSED_0x4A1                                           0x4A1 // Unused Flag
 #define FLAG_UNUSED_0x4A2                                           0x4A2 // Unused Flag

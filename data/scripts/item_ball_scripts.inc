@@ -714,4 +714,9 @@ DevRoom_EventScript_DeveloperUnlocks::
 	setflag FLAG_BADGE06_GET
 	setflag FLAG_BADGE07_GET
 	setflag FLAG_BADGE08_GET
+	givemon SPECIES_LINOONE, 100
+	end
+
+DevRoom_EventScript_ItemGoGoggles::
+	finditem ITEM_GO_GOGGLES
 	end

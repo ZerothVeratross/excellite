@@ -264,7 +264,7 @@
     {
       "id": "LAYOUT_ROUTE111",
       "name": "Route111_Layout",
-      "width": 40,
+      "width": 50,
       "height": 140,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Mauville",
@@ -4440,6 +4440,26 @@
       "secondary_tileset": "gTileset_SecretBaseShrub",
       "border_filepath": "data/layouts/PetalburgWoods_Passage/border.bin",
       "blockdata_filepath": "data/layouts/PetalburgWoods_Passage/map.bin"
+    },
+    {
+      "id": "LAYOUT_DESERT_CAVE",
+      "name": "DesertCave_Layout",
+      "width": 40,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MirageTower",
+      "border_filepath": "data/layouts/DesertCave/border.bin",
+      "blockdata_filepath": "data/layouts/DesertCave/map.bin"
+    },
+    {
+      "id": "LAYOUT_CAVE_OF_ORIGIN_B2F",
+      "name": "CaveOfOrigin_B2F_Layout",
+      "width": 80,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_RusturfTunnel",
+      "border_filepath": "data/layouts/CaveOfOrigin_B2F/border.bin",
+      "blockdata_filepath": "data/layouts/CaveOfOrigin_B2F/map.bin"
     }
   ]
 }

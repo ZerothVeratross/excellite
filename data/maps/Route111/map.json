@@ -664,6 +664,13 @@
       "elevation": 0,
       "dest_map": "MAP_TRAINER_HILL_ENTRANCE",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 45,
+      "y": 51,
+      "elevation": 0,
+      "dest_map": "MAP_DESERT_CAVE",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [
