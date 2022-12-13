@@ -1071,3 +1071,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/CaveOfOrigin_B2F/scripts.inc"
 
 	.include "data/maps/DesertCave_B1F/scripts.inc"
+
+	.include "data/maps/DesertCave_B2F/scripts.inc"
