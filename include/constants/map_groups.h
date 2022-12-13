@@ -403,6 +403,7 @@
 #define MAP_PETALBURG_WOODS_PASSAGE                  (108 | (24 << 8))
 #define MAP_DESERT_CAVE                              (109 | (24 << 8))
 #define MAP_CAVE_OF_ORIGIN_B2F                       (110 | (24 << 8))
+#define MAP_DESERT_CAVE_B1F                          (111 | (24 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (25 << 8))

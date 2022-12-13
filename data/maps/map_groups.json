@@ -433,7 +433,8 @@
     "MeteorFalls_StevensCave",
     "PetalburgWoods_Passage",
     "DesertCave",
-    "CaveOfOrigin_B2F"
+    "CaveOfOrigin_B2F",
+    "DesertCave_B1F"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",
