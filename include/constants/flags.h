@@ -1217,20 +1217,20 @@
 #define FLAG_ITEM_SAFARI_ZONE_NORTH_EAST_NUGGET                     0x491
 #define FLAG_ITEM_SAFARI_ZONE_SOUTH_EAST_BIG_PEARL                  0x492
 
-#define FLAG_UNUSED_0x493                                           0x493 // Dev room ball cut
-#define FLAG_UNUSED_0x494                                           0x494 // Dev room ball fly
-#define FLAG_UNUSED_0x495                                           0x495 // Dev room ball surf
-#define FLAG_UNUSED_0x496                                           0x496 // Dev room ball strength
-#define FLAG_UNUSED_0x497                                           0x497 // Dev room ball flash
-#define FLAG_UNUSED_0x498                                           0x498 // Dev room ball rock smash
-#define FLAG_UNUSED_0x499                                           0x499 // Dev room ball waterfall
-#define FLAG_UNUSED_0x49A                                           0x49A // Dev room ball dive
+#define FLAG_UNUSED_0x493                                           0x493 // Dev room ball HMs
+#define FLAG_UNUSED_0x494                                           0x494 // Unused Flag
+#define FLAG_UNUSED_0x495                                           0x495 // Unused Flag
+#define FLAG_UNUSED_0x496                                           0x496 // Unused Flag
+#define FLAG_UNUSED_0x497                                           0x497 // Unused Flag
+#define FLAG_UNUSED_0x498                                           0x498 // Unused Flag
+#define FLAG_UNUSED_0x499                                           0x499 // Unused Flag
+#define FLAG_UNUSED_0x49A                                           0x49A // Unused Flag
 #define FLAG_UNUSED_0x49B                                           0x49B // Petalburg Woods super potion
 #define FLAG_UNUSED_0x49C                                           0x49C // Petalburg Woods Rare Candy
 #define FLAG_UNUSED_0x49D                                           0x49D // Petalburg Woods Full Heal
 #define FLAG_UNUSED_0x49E                                           0x49E // Dev room ball Master Ball
-#define FLAG_UNUSED_0x49F                                           0x49F // Dev room Go Goggles
-#define FLAG_UNUSED_0x4A0                                           0x4A0 // Unused Flag
+#define FLAG_UNUSED_0x49F                                           0x49F // Dev room ball Go Goggles
+#define FLAG_UNUSED_0x4A0                                           0x4A0 // Dev room ball decorations
 #define FLAG_UNUSED_0x4A1                                           0x4A1 // Unused Flag
 #define FLAG_UNUSED_0x4A2                                           0x4A2 // Unused Flag
 #define FLAG_UNUSED_0x4A3                                           0x4A3 // Unused Flag

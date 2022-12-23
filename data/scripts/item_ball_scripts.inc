@@ -670,35 +670,14 @@ MagmaHideout_3F_3R_EventScript_ItemEscapeRope::
 	finditem ITEM_ESCAPE_ROPE
 	end
 
-DevRoom_EventScript_ItemHM01Cut::
+DevRoom_EventScript_ItemHMs::
 	finditem ITEM_HM01_CUT
-	end
-
-DevRoom_EventScript_ItemHM02Fly::
 	finditem ITEM_HM02_FLY
-	end
-
-DevRoom_EventScript_ItemHM03Surf::
 	finditem ITEM_HM03_SURF
-	end
-
-DevRoom_EventScript_ItemHM04Strength::
 	finditem ITEM_HM04_STRENGTH
-	end
-
-DevRoom_EventScript_ItemHM05Flash::
 	finditem ITEM_HM05_FLASH
-	end
-
-DevRoom_EventScript_ItemHM06RockSmash::
 	finditem ITEM_HM06_ROCK_SMASH
-	end
-
-DevRoom_EventScript_ItemHM07Waterfall::
 	finditem ITEM_HM07_WATERFALL
-	end
-
-DevRoom_EventScript_ItemHM08Dive::
 	finditem ITEM_HM08_DIVE
 	end
 
@@ -715,8 +694,31 @@ DevRoom_EventScript_DeveloperUnlocks::
 	setflag FLAG_BADGE07_GET
 	setflag FLAG_BADGE08_GET
 	givemon SPECIES_LINOONE, 100
+	givemon SPECIES_STARMIE, 100
+	givemon SPECIES_SKARMORY, 100
+	setflag FLAG_SYS_POKEMON_GET
 	end
 
 DevRoom_EventScript_ItemGoGoggles::
 	finditem ITEM_GO_GOGGLES
+	end
+
+DevRoom_EventScript_Decorations::
+	lock
+	givedecoration DECOR_GULPIN_DOLL
+	givedecoration DECOR_SEEDOT_DOLL
+	givedecoration DECOR_TORCHIC_DOLL
+	givedecoration DECOR_MUDKIP_DOLL
+	givedecoration DECOR_TREECKO_DOLL
+	givedecoration DECOR_DUSKULL_DOLL
+	givedecoration DECOR_ROUND_CUSHION
+	givedecoration DECOR_ZIGZAG_CUSHION
+	givedecoration DECOR_RED_TENT
+	givedecoration DECOR_BLUE_TENT
+	givedecoration DECOR_SLIDE
+	givedecoration DECOR_JUMP_MAT
+	givedecoration DECOR_SPIN_MAT
+	givedecoration DECOR_SURF_MAT
+	givedecoration DECOR_SMALL_DESK
+	release
 	end

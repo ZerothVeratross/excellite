@@ -462,6 +462,7 @@
     "SecretBase_YellowCave4",
     "SecretBase_Tree4",
     "SecretBase_Shrub4",
+    "SuperSecretBase_Tree1",
     "BattleColosseum_2P",
     "TradeCenter",
     "RecordCorner",
@@ -499,8 +500,7 @@
     "BattlePyramidSquare15",
     "BattlePyramidSquare16",
     "UnionRoom",
-    "DevRoom",
-    "SuperSecretBase_Tree1"
+    "DevRoom"
   ],
   "gMapGroup_SpecialArea": [
     "SafariZone_Northwest",
