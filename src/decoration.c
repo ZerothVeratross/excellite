@@ -1491,14 +1491,19 @@ static bool8 IsntInitialPosition(u8 taskId, s16 x, s16 y, u16 layerType)
 
 static bool8 IsFloorOrBoardAndHole(u16 behaviorAt, const struct Decoration *decoration)
 {
-    if (MetatileBehavior_IsSecretBaseTrainerSpot(behaviorAt) != TRUE)
-    {
-        if (decoration->id == DECOR_SOLID_BOARD && MetatileBehavior_IsSecretBaseHole(behaviorAt) == TRUE)
-            return TRUE;
-
-        if (MetatileBehavior_IsNormal(behaviorAt))
-            return TRUE;
-    }
+//    if (MetatileBehavior_IsSecretBaseTrainerSpot(behaviorAt) != TRUE)
+//    {
+//        if (decoration->id == DECOR_SOLID_BOARD && MetatileBehavior_IsSecretBaseHole(behaviorAt) == TRUE)
+//            return TRUE;
+//
+//        if (MetatileBehavior_IsNormal(behaviorAt))
+//            return TRUE;
+//    }
+	
+	if (MetatileBehavior_IsSecretBaseFloor(behaviorAt) == TRUE)
+		return TRUE;
+	if (decoration->id == DECOR_SOLID_BOARD && MetatileBehavior_IsSecretBaseHole(behaviorAt) == TRUE)
+		return TRUE;
 
     return FALSE;
 }

@@ -33,6 +33,7 @@ static const u8 sTileBitAttributes[NUM_METATILE_BEHAVIORS] =
     [MB_NO_SURFACING]                    = TILE_FLAG_UNUSED | TILE_FLAG_SURFABLE,
     [MB_STAIRS_OUTSIDE_ABANDONED_SHIP]   = TILE_FLAG_UNUSED,
     [MB_SHOAL_CAVE_ENTRANCE]             = TILE_FLAG_UNUSED,
+    [MB_SECRET_BASE_FLOOR]               = TILE_FLAG_UNUSED,
     [MB_ICE]                             = TILE_FLAG_UNUSED,
     [MB_SAND]                            = TILE_FLAG_UNUSED,
     [MB_SEAWEED]                         = TILE_FLAG_UNUSED | TILE_FLAG_SURFABLE | TILE_FLAG_HAS_ENCOUNTERS,
@@ -566,6 +567,15 @@ bool8 MetatileBehavior_IsRecordMixingSecretBasePC(u8 metatileBehavior)
 bool8 MetatileBehavior_IsSecretBaseScenery1(u8 metatileBehavior)
 {
     if (metatileBehavior == MB_SECRET_BASE_SCENERY)
+        return TRUE;
+    else
+        return FALSE;
+}
+
+// Used to check for a valid tile when placing decorations
+bool8 MetatileBehavior_IsSecretBaseFloor(u8 metatileBehavior)
+{
+    if (metatileBehavior == MB_SECRET_BASE_FLOOR)
         return TRUE;
     else
         return FALSE;

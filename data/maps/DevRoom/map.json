@@ -114,8 +114,8 @@
       "x": 3,
       "y": 18,
       "elevation": 0,
-      "dest_map": "MAP_DEV_ROOM",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_ROUTE104",
+      "dest_warp_id": "2"
     },
     {
       "x": 19,
