@@ -358,7 +358,7 @@ const struct Tileset gTileset_SecretBaseBrownCave =
     .palettes = gTilesetPalettes_SecretBaseBrownCave,
     .metatiles = gMetatiles_SecretBaseSecondary,
     .metatileAttributes = gMetatileAttributes_SecretBaseSecondary,
-    .callback = NULL,
+    .callback = InitTilesetAnim_Secret_Base,
 };
 
 const struct Tileset gTileset_SecretBaseTree =
@@ -369,7 +369,7 @@ const struct Tileset gTileset_SecretBaseTree =
     .palettes = gTilesetPalettes_SecretBaseTree,
     .metatiles = gMetatiles_SecretBaseSecondary,
     .metatileAttributes = gMetatileAttributes_SecretBaseSecondary,
-    .callback = NULL,
+    .callback = InitTilesetAnim_Secret_Base,
 };
 
 const struct Tileset gTileset_SecretBaseShrub =
@@ -380,7 +380,7 @@ const struct Tileset gTileset_SecretBaseShrub =
     .palettes = gTilesetPalettes_SecretBaseShrub,
     .metatiles = gMetatiles_SecretBaseSecondary,
     .metatileAttributes = gMetatileAttributes_SecretBaseSecondary,
-    .callback = NULL,
+    .callback = InitTilesetAnim_Secret_Base,
 };
 
 const struct Tileset gTileset_SecretBaseBlueCave =
@@ -391,7 +391,7 @@ const struct Tileset gTileset_SecretBaseBlueCave =
     .palettes = gTilesetPalettes_SecretBaseBlueCave,
     .metatiles = gMetatiles_SecretBaseSecondary,
     .metatileAttributes = gMetatileAttributes_SecretBaseSecondary,
-    .callback = NULL,
+    .callback = InitTilesetAnim_Secret_Base,
 };
 
 const struct Tileset gTileset_SecretBaseYellowCave =
@@ -402,7 +402,7 @@ const struct Tileset gTileset_SecretBaseYellowCave =
     .palettes = gTilesetPalettes_SecretBaseYellowCave,
     .metatiles = gMetatiles_SecretBaseSecondary,
     .metatileAttributes = gMetatileAttributes_SecretBaseSecondary,
-    .callback = NULL,
+    .callback = InitTilesetAnim_Secret_Base,
 };
 
 const struct Tileset gTileset_SecretBaseRedCave =
@@ -413,7 +413,7 @@ const struct Tileset gTileset_SecretBaseRedCave =
     .palettes = gTilesetPalettes_SecretBaseRedCave,
     .metatiles = gMetatiles_SecretBaseSecondary,
     .metatileAttributes = gMetatileAttributes_SecretBaseSecondary,
-    .callback = NULL,
+    .callback = InitTilesetAnim_Secret_Base,
 };
 
 const struct Tileset gTileset_InsideOfTruck =

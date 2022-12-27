@@ -354,6 +354,10 @@ PetalburgWoods_EventScript_ItemParalyzeHeal::
 	finditem ITEM_PARALYZE_HEAL
 	end
 
+PetalburgWoods_ArenaPassage_EventScript_ItemRareCandy::
+	finditem ITEM_RARE_CANDY
+	end
+
 RusturfTunnel_EventScript_ItemPokeBall::
 	finditem ITEM_POKE_BALL
 	end

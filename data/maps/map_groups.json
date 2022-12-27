@@ -435,7 +435,9 @@
     "DesertCave",
     "CaveOfOrigin_B2F",
     "DesertCave_B1F",
-    "DesertCave_B2F"
+    "DesertCave_B2F",
+    "PetalburgWoods_ArenaPassage",
+    "PetalburgWoods_Arena"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

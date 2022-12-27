@@ -188,21 +188,27 @@
 #define METATILE_Fallarbor_RedRockWall               0x269
 
 // gTileset_Fortree
-#define METATILE_Fortree_BridgeOverGrass_Lowered           0x24F
-#define METATILE_Fortree_BridgeOverGrass_Raised            0x24E
-#define METATILE_Fortree_BridgeOverTrees_Lowered           0x257
-#define METATILE_Fortree_BridgeOverTrees_Raised            0x256
-#define METATILE_Fortree_LongGrass_Root                    0x208
-#define METATILE_Fortree_SecretBase_LongGrass_BottomLeft   0x281
-#define METATILE_Fortree_SecretBase_LongGrass_BottomMid    0x282
-#define METATILE_Fortree_SecretBase_LongGrass_BottomRight  0x283
-#define METATILE_Fortree_SecretBase_LongGrass_TopLeft      0x279
-#define METATILE_Fortree_SecretBase_LongGrass_TopMid       0x27A
-#define METATILE_Fortree_SecretBase_LongGrass_TopRight     0x27B
-#define METATILE_Fortree_SecretBase_Shrub                  0x271
-#define METATILE_Fortree_SecretBase_ShrubOpen              0x278
-#define METATILE_Fortree_WoodBridge1_Bottom                0x29F
-#define METATILE_Fortree_WoodBridge1_Top                   0x297
+#define METATILE_Fortree_BridgeOverGrass_Lowered                 0x24F
+#define METATILE_Fortree_BridgeOverGrass_Raised                  0x24E
+#define METATILE_Fortree_BridgeOverTrees_Lowered                 0x257
+#define METATILE_Fortree_BridgeOverTrees_Raised                  0x256
+#define METATILE_Fortree_LongGrass_Root                          0x208
+#define METATILE_Fortree_SecretBase_LongGrass_BottomLeft         0x281
+#define METATILE_Fortree_SecretBase_LongGrass_BottomMid          0x282
+#define METATILE_Fortree_SecretBase_LongGrass_BottomRight        0x283
+#define METATILE_Fortree_SecretBase_LongGrass_TopLeft            0x279
+#define METATILE_Fortree_SecretBase_LongGrass_TopMid             0x27A
+#define METATILE_Fortree_SecretBase_LongGrass_TopRight           0x27B
+#define METATILE_Fortree_SecretBase_Shrub                        0x271
+#define METATILE_Fortree_SecretBase_ShrubOpen                    0x278
+#define METATILE_Fortree_VerticalBridgeOverTreesAndWall_Lowered  0x34B
+#define METATILE_Fortree_VerticalBridgeOverTreesAndWall_Raised   0x34A
+#define METATILE_Fortree_VerticalBridgeOverTrees_Lowered         0x25F
+#define METATILE_Fortree_VerticalBridgeOverTrees_Raised          0x25E
+#define METATILE_Fortree_VerticalBridgeOverWall_Lowered          0x343
+#define METATILE_Fortree_VerticalBridgeOverWall_Raised           0x342
+#define METATILE_Fortree_WoodBridge1_Bottom                      0x29F
+#define METATILE_Fortree_WoodBridge1_Top                         0x297
 
 // gTileset_General
 #define METATILE_General_BlueCaveIndent        0x1B0
@@ -442,6 +448,23 @@
 // gTileset_Rustboro
 #define METATILE_Rustboro_Door_Gray  0x21F
 #define METATILE_Rustboro_Door_Tan   0x22F
+
+// gTileset_SecretBaseShrub
+#define METATILE_SecretBaseShrub_EdgeBehindBush                 0x369
+#define METATILE_SecretBaseShrub_EdgeBehindTreeBase             0x381
+#define METATILE_SecretBaseShrub_EdgeBehindTreeTop              0x371
+#define METATILE_SecretBaseShrub_LeftCornerBehindBush           0x368
+#define METATILE_SecretBaseShrub_LeftCornerBehindLeftBigTree    0x36C
+#define METATILE_SecretBaseShrub_LeftCornerBehindRightBigTree   0x375
+#define METATILE_SecretBaseShrub_LeftCornerBehindTreeBase       0x380
+#define METATILE_SecretBaseShrub_LeftCornerBehindTreeTop        0x370
+#define METATILE_SecretBaseShrub_LeftWallBehindTreeTop          0x378
+#define METATILE_SecretBaseShrub_RightCornerBehindBush          0x36A
+#define METATILE_SecretBaseShrub_RightCornerBehindLeftBigTree   0x374
+#define METATILE_SecretBaseShrub_RightCornerBehindRightBigTree  0x36D
+#define METATILE_SecretBaseShrub_RightCornerBehindTreeBase      0x382
+#define METATILE_SecretBaseShrub_RightCornerBehindTreeTop       0x372
+#define METATILE_SecretBaseShrub_RightWallBehindTreeTop         0x37B
 
 // gTileset_SecretBaseTree
 #define METATILE_SecretBaseTree_AttractMat_BottomLeft       0x313

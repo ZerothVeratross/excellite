@@ -456,6 +456,15 @@ static void TryLowerFortreeBridge(s16 x, s16 y)
         case METATILE_Fortree_BridgeOverTrees_Raised:
             MapGridSetMetatileIdAt(x, y, METATILE_Fortree_BridgeOverTrees_Lowered);
             break;
+        case METATILE_Fortree_VerticalBridgeOverTrees_Raised:
+            MapGridSetMetatileIdAt(x, y, METATILE_Fortree_VerticalBridgeOverTrees_Lowered);
+            break;
+        case METATILE_Fortree_VerticalBridgeOverTreesAndWall_Raised:
+            MapGridSetMetatileIdAt(x, y, METATILE_Fortree_VerticalBridgeOverTreesAndWall_Lowered);
+            break;
+        case METATILE_Fortree_VerticalBridgeOverWall_Raised:
+            MapGridSetMetatileIdAt(x, y, METATILE_Fortree_VerticalBridgeOverWall_Lowered);
+            break;
         }
     }
 }
@@ -473,6 +482,15 @@ static void TryRaiseFortreeBridge(s16 x, s16 y)
         case METATILE_Fortree_BridgeOverTrees_Lowered:
             MapGridSetMetatileIdAt(x, y, METATILE_Fortree_BridgeOverTrees_Raised);
             break;
+		case METATILE_Fortree_VerticalBridgeOverTreesAndWall_Lowered:
+			MapGridSetMetatileIdAt(x, y, METATILE_Fortree_VerticalBridgeOverTreesAndWall_Raised);
+			break;
+		case METATILE_Fortree_VerticalBridgeOverTrees_Lowered:
+			MapGridSetMetatileIdAt(x, y, METATILE_Fortree_VerticalBridgeOverTrees_Raised);
+			break;
+		case METATILE_Fortree_VerticalBridgeOverWall_Lowered:
+			MapGridSetMetatileIdAt(x, y, METATILE_Fortree_VerticalBridgeOverWall_Raised);
+			break;
         }
     }
 }

@@ -1073,3 +1073,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/DesertCave_B1F/scripts.inc"
 
 	.include "data/maps/DesertCave_B2F/scripts.inc"
+
+	.include "data/maps/PetalburgWoods_ArenaPassage/scripts.inc"
+
+	.include "data/maps/PetalburgWoods_Arena/scripts.inc"

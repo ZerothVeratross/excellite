@@ -1344,7 +1344,7 @@
     {
       "id": "LAYOUT_PETALBURG_WOODS",
       "name": "PetalburgWoods_Layout",
-      "width": 88,
+      "width": 120,
       "height": 44,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Fortree",
@@ -4480,6 +4480,26 @@
       "secondary_tileset": "gTileset_MirageTower",
       "border_filepath": "data/layouts/DesertCave_B2F/border.bin",
       "blockdata_filepath": "data/layouts/DesertCave_B2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_PETALBURG_WOODS_ARENA_PASSAGE",
+      "name": "PetalburgWoods_ArenaPassage_Layout",
+      "width": 8,
+      "height": 60,
+      "primary_tileset": "gTileset_SecretBase",
+      "secondary_tileset": "gTileset_SecretBaseShrub",
+      "border_filepath": "data/layouts/PetalburgWoods_ArenaPassage/border.bin",
+      "blockdata_filepath": "data/layouts/PetalburgWoods_ArenaPassage/map.bin"
+    },
+    {
+      "id": "LAYOUT_PETALBURG_WOODS_ARENA",
+      "name": "PetalburgWoods_Arena_Layout",
+      "width": 13,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/PetalburgWoods_Arena/border.bin",
+      "blockdata_filepath": "data/layouts/PetalburgWoods_Arena/map.bin"
     }
   ]
 }
