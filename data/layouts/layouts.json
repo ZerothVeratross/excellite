@@ -4475,7 +4475,7 @@
       "id": "LAYOUT_DESERT_CAVE_B2F",
       "name": "DesertCave_B2F_Layout",
       "width": 38,
-      "height": 40,
+      "height": 44,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_MirageTower",
       "border_filepath": "data/layouts/DesertCave_B2F/border.bin",
