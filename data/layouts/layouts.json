@@ -4494,8 +4494,8 @@
     {
       "id": "LAYOUT_PETALBURG_WOODS_ARENA",
       "name": "PetalburgWoods_Arena_Layout",
-      "width": 13,
-      "height": 30,
+      "width": 17,
+      "height": 36,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/PetalburgWoods_Arena/border.bin",
