@@ -836,3 +836,14 @@ const struct Tileset gTileset_NewRusturfTunnel =
     .metatileAttributes = gMetatileAttributes_NewRusturfTunnel,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_forest =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_forest,
+    .palettes = gTilesetPalettes_forest,
+    .metatiles = gMetatiles_forest,
+    .metatileAttributes = gMetatileAttributes_forest,
+    .callback = InitTilesetAnim_Forest,
+};

@@ -210,3 +210,6 @@ const u16 gMetatileAttributes_UnionRoom[] = INCBIN_U16("data/tilesets/secondary/
 
 const u16 gMetatiles_NewRusturfTunnel[] = INCBIN_U16("data/tilesets/secondary/new_rusturf_tunnel/metatiles.bin");
 const u16 gMetatileAttributes_NewRusturfTunnel[] = INCBIN_U16("data/tilesets/secondary/new_rusturf_tunnel/metatile_attributes.bin");
+
+const u16 gMetatiles_forest[] = INCBIN_U16("data/tilesets/secondary/forest/metatiles.bin");
+const u16 gMetatileAttributes_forest[] = INCBIN_U16("data/tilesets/secondary/forest/metatile_attributes.bin");

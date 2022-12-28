@@ -4497,7 +4497,7 @@
       "width": 17,
       "height": 36,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Fortree",
+      "secondary_tileset": "gTileset_forest",
       "border_filepath": "data/layouts/PetalburgWoods_Arena/border.bin",
       "blockdata_filepath": "data/layouts/PetalburgWoods_Arena/map.bin"
     }
