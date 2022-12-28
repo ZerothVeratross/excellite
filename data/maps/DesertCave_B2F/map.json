@@ -32,11 +32,18 @@
       "dest_warp_id": "2"
     },
     {
-      "x": 9,
-      "y": 13,
+      "x": 21,
+      "y": 16,
       "elevation": 0,
       "dest_map": "MAP_DESERT_CAVE_B1F",
       "dest_warp_id": "3"
+    },
+    {
+      "x": 5,
+      "y": 32,
+      "elevation": 0,
+      "dest_map": "MAP_DESERT_CAVE_B3F",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [
