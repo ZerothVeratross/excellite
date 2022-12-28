@@ -4500,6 +4500,16 @@
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/PetalburgWoods_Arena/border.bin",
       "blockdata_filepath": "data/layouts/PetalburgWoods_Arena/map.bin"
+    },
+    {
+      "id": "LAYOUT_DESERT_CAVE_B3F",
+      "name": "DesertCave_B3F_Layout",
+      "width": 21,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MirageTower",
+      "border_filepath": "data/layouts/DesertCave_B3F/border.bin",
+      "blockdata_filepath": "data/layouts/DesertCave_B3F/map.bin"
     }
   ]
 }
