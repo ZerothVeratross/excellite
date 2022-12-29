@@ -1976,6 +1976,41 @@ static u8 CreateNPCTrainerParty(struct Pokemon *party, u16 trainerNum, bool8 fir
                 }
                 break;
             }
+            case F_TRAINER_PARTY_COMPLETE_CUSTOM:
+            {
+                const struct TrainerMonCompleteCustom *partyData = gTrainers[trainerNum].party.CompleteCustom;
+
+                for (j = 0; gSpeciesNames[partyData[i].species][j] != EOS; j++)
+                    nameHash += gSpeciesNames[partyData[i].species][j];
+
+                do
+				{
+					personalityValue = Random32();
+				}
+				while (partyData[i].nature != GetNatureFromPersonality(personalityValue));
+                fixedIV = USE_RANDOM_IVS;
+                CreateMon(&party[i], partyData[i].species, partyData[i].lvl, fixedIV, TRUE, personalityValue, OT_ID_RANDOM_NO_SHINY, 0);
+
+                SetMonData(&party[i], MON_DATA_HELD_ITEM, &partyData[i].heldItem);
+				SetMonData(&party[i], MON_DATA_ABILITY_NUM, &partyData[i].abilityNums);
+				
+				for (j = 0; j < NUM_STATS; j++)
+				{
+					if (partyData[i].ivs[j] < USE_RANDOM_IVS)
+					{
+						SetMonData(&party[i], MON_DATA_HP_IV + j, &partyData[i].ivs[j]);
+					}
+					SetMonData(&party[i], MON_DATA_HP_EV + j, &partyData[i].evs[j]);
+				}
+
+                for (j = 0; j < MAX_MON_MOVES; j++)
+                {
+                    SetMonData(&party[i], MON_DATA_MOVE1 + j, &partyData[i].moves[j]);
+                    SetMonData(&party[i], MON_DATA_PP1 + j, &gBattleMoves[partyData[i].moves[j]].pp);
+                }
+                CalculateMonStats(&party[i]);
+                break;
+            }
             }
 
         #if B_TRAINER_CLASS_POKE_BALLS >= GEN_7

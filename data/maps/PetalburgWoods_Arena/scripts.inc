@@ -7,8 +7,8 @@ PetalburgWoods_Arena_OnResume:
 	end
 
 PetalburgWoods_Arena_EventScript_Zeroth::
-	trainerbattle_single TRAINER_EDGAR, VictoryRoad_1F_Text_EdgarIntro, VictoryRoad_1F_Text_EdgarDefeat
-	msgbox VictoryRoad_1F_Text_EdgarPostBattle, MSGBOX_AUTOCLOSE
+	trainerbattle_single TRAINER_ZEROTH, PetalburgWoods_Arena_Text_ZerothIntro, PetalburgWoods_Arena_Text_ZerothDefeat
+	msgbox PetalburgWoods_Arena_Text_ZerothPostBattle, MSGBOX_AUTOCLOSE
 	end
 
 PetalburgWoods_Arena_Text_ZerothIntro::
@@ -16,9 +16,9 @@ PetalburgWoods_Arena_Text_ZerothIntro::
 	.string "Placeholder$"
 	
 PetalburgWoods_Arena_Text_ZerothDefeat::
-	.string "Placeholder\n"
-	.string "Placeholder$"
+	.string "Placeholder2\n"
+	.string "Placeholder2$"
 
 PetalburgWoods_Arena_Text_ZerothPostBattle::
-	.string "Placeholder\n"
-	.string "Placeholder$"
+	.string "Placeholder3\n"
+	.string "Placeholder3$"
