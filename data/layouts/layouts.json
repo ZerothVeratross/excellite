@@ -4510,6 +4510,16 @@
       "secondary_tileset": "gTileset_MirageTower",
       "border_filepath": "data/layouts/DesertCave_B3F/border.bin",
       "blockdata_filepath": "data/layouts/DesertCave_B3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_DESERT_CAVE_B4F",
+      "name": "DesertCave_B4F_Layout",
+      "width": 25,
+      "height": 43,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BattlePyramid",
+      "border_filepath": "data/layouts/DesertCave_B4F/border.bin",
+      "blockdata_filepath": "data/layouts/DesertCave_B4F/map.bin"
     }
   ]
 }
