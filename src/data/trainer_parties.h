@@ -12434,3 +12434,26 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MayLinkPlaceholder[] = {
     .species = SPECIES_KYOGRE,
     }
 };
+
+static const struct TrainerMonCompleteCustom sParty_Zeroth[] = {
+    {
+    .ivs = {31, 31, 31, 31, 31, 31},
+	.evs = {4, 0, 252, 252, 0, 0},
+    .lvl = 100,
+    .species = SPECIES_GARCHOMP,
+	.heldItem = ITEM_ROCKY_HELMET,
+	.moves = {MOVE_EARTHQUAKE, MOVE_STEALTH_ROCK, MOVE_OUTRAGE, MOVE_DRAGON_DANCE},
+	.abilityNums = 2,
+	.nature = NATURE_IMPISH,
+    },
+    {
+    .ivs = {31, 0, 31, 31, 31, 31},
+	.evs = {4, 0, 128, 252, 124, 0},
+    .lvl = 100,
+    .species = SPECIES_GARDEVOIR,
+	.heldItem = ITEM_WEAKNESS_POLICY,
+	.moves = {MOVE_MOONBLAST, MOVE_CALM_MIND, MOVE_RECOVER, MOVE_AURA_SPHERE},
+	.abilityNums = 0,
+	.nature = NATURE_TIMID,
+    }
+};
