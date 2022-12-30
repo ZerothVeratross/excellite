@@ -592,6 +592,20 @@
       "elevation": 0,
       "dest_map": "MAP_ROUTE123_BERRY_MASTERS_HOUSE",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 142,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_PYRE_WOODS_NORTHWEST",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 143,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_PYRE_WOODS_NORTHWEST",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [
@@ -830,7 +844,7 @@
     },
     {
       "type": "hidden_item",
-      "x": 138,
+      "x": 144,
       "y": 18,
       "elevation": 3,
       "item": "ITEM_RARE_CANDY",

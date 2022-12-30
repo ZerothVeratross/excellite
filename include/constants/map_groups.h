@@ -409,6 +409,7 @@
 #define MAP_PETALBURG_WOODS_ARENA                    (114 | (24 << 8))
 #define MAP_DESERT_CAVE_B3F                          (115 | (24 << 8))
 #define MAP_DESERT_CAVE_B4F                          (116 | (24 << 8))
+#define MAP_PYRE_WOODS_NORTHWEST                     (117 | (24 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (25 << 8))

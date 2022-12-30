@@ -23,3 +23,9 @@ Desert Cave B2F
 Desert Cave B3F
 19, 27
 
+---------------------
+
+PyreWoods Northwest
+4, 4
+28, 25
+
