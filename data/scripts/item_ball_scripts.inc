@@ -705,6 +705,7 @@ DevRoom_EventScript_DeveloperUnlocks::
 
 DevRoom_EventScript_ItemGoGoggles::
 	finditem ITEM_GO_GOGGLES
+	setflag FLAG_RECEIVED_GO_GOGGLES
 	end
 
 DevRoom_EventScript_Decorations::
