@@ -220,7 +220,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "PetalburgWoods_EventScript_ItemSuperPotion",
-      "flag": "FLAG_UNUSED_0x49B"
+      "flag": "FLAG_ITEM_PETALBURG_WOODS_SUPER_POTION"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
@@ -233,7 +233,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "PetalburgWoods_EventScript_ItemFullHeal",
-      "flag": "FLAG_UNUSED_0x49D"
+      "flag": "FLAG_ITEM_PETALBURG_WOODS_FULL_HEAL"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
@@ -246,7 +246,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "PetalburgWoods_EventScript_ItemRareCandy",
-      "flag": "FLAG_UNUSED_0x49C"
+      "flag": "FLAG_ITEM_PETALBURG_WOODS_RARE_CANDY"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BREAKABLE_ROCK",
@@ -337,7 +337,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "PetalburgWoods_EventScript_ItemGreatBall",
-      "flag": "FLAG_UNUSED_0x49A"
+      "flag": "FLAG_ITEM_PETALBURG_WOODS_GREAT_BALL"
     }
   ],
   "warp_events": [
@@ -480,7 +480,7 @@
       "y": 17,
       "elevation": 0,
       "item": "ITEM_REVIVE",
-      "flag": "FLAG_UNUSED_0x264"
+      "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_REVIVE"
     },
     {
       "type": "hidden_item",
@@ -488,7 +488,7 @@
       "y": 29,
       "elevation": 0,
       "item": "ITEM_GREAT_BALL",
-      "flag": "FLAG_UNUSED_0x265"
+      "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_GREAT_BALL_1"
     },
     {
       "type": "hidden_item",
@@ -496,7 +496,7 @@
       "y": 22,
       "elevation": 0,
       "item": "ITEM_PROTEIN",
-      "flag": "FLAG_UNUSED_0x266"
+      "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_PROTEIN_1"
     },
     {
       "type": "hidden_item",
@@ -504,7 +504,7 @@
       "y": 7,
       "elevation": 0,
       "item": "ITEM_CARBOS",
-      "flag": "FLAG_UNUSED_0x267"
+      "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_CARBOS"
     },
     {
       "type": "hidden_item",
@@ -512,7 +512,7 @@
       "y": 40,
       "elevation": 0,
       "item": "ITEM_PROTEIN",
-      "flag": "FLAG_UNUSED_0x268"
+      "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_PROTEIN_2"
     },
     {
       "type": "hidden_item",
@@ -520,7 +520,7 @@
       "y": 22,
       "elevation": 0,
       "item": "ITEM_SUPER_REPEL",
-      "flag": "FLAG_UNUSED_0x269"
+      "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_SUPER_REPEL_1"
     },
     {
       "type": "hidden_item",
@@ -528,7 +528,7 @@
       "y": 16,
       "elevation": 0,
       "item": "ITEM_SUPER_REPEL",
-      "flag": "FLAG_UNUSED_0x26A"
+      "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_SUPER_REPEL_2"
     },
     {
       "type": "secret_base",
@@ -550,7 +550,7 @@
       "y": 24,
       "elevation": 0,
       "item": "ITEM_PROTEIN",
-      "flag": "FLAG_UNUSED_0x26B"
+      "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_PROTEIN_3"
     },
     {
       "type": "hidden_item",
@@ -558,7 +558,7 @@
       "y": 13,
       "elevation": 0,
       "item": "ITEM_GREAT_BALL",
-      "flag": "FLAG_UNUSED_0x26C"
+      "flag": "FLAG_HIDDEN_ITEM_PETALBURG_WOODS_GREAT_BALL_2"
     }
   ]
 }

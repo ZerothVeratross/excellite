@@ -2,6 +2,10 @@ Route102_EventScript_ItemPotion::
 	finditem ITEM_POTION
 	end
 
+Route102_EventScript_ItemWaterStone::
+	finditem ITEM_WATER_STONE
+	end
+
 Route103_EventScript_ItemGuardSpec::
 	finditem ITEM_GUARD_SPEC
 	end
@@ -352,6 +356,10 @@ PetalburgWoods_EventScript_ItemRareCandy::
 
 PetalburgWoods_EventScript_ItemParalyzeHeal::
 	finditem ITEM_PARALYZE_HEAL
+	end
+
+PetalburgWoods_Passage_EventScript_ItemGreatBall::
+	finditem ITEM_GREAT_BALL
 	end
 
 PetalburgWoods_ArenaPassage_EventScript_ItemRareCandy::

@@ -16,8 +16,8 @@
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 16,
-      "y": 1,
+      "x": 12,
+      "y": 14,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
       "movement_range_x": 0,
@@ -25,7 +25,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "DevRoom_EventScript_ItemHMs",
-      "flag": "FLAG_UNUSED_0x493"
+      "flag": "FLAG_ITEM_DEV_ROOM_HM"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
@@ -38,25 +38,12 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "DevRoom_EventScript_DeveloperUnlocks",
-      "flag": "FLAG_UNUSED_0x49E"
+      "flag": "FLAG_ITEM_DEV_ROOM_MASTER_BALL"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 14,
-      "y": 1,
-      "elevation": 0,
-      "movement_type": "MOVEMENT_TYPE_NONE",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "0",
-      "script": "DevRoom_EventScript_ItemGoGoggles",
-      "flag": "FLAG_UNUSED_0x49F"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 15,
-      "y": 1,
+      "x": 8,
+      "y": 14,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
       "movement_range_x": 0,
@@ -64,7 +51,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "DevRoom_EventScript_Decorations",
-      "flag": "FLAG_UNUSED_0x4A0"
+      "flag": "FLAG_ITEM_DEV_ROOM_DECORATIONS"
     }
   ],
   "warp_events": [

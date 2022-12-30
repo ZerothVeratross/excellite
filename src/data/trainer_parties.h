@@ -12435,6 +12435,14 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MayLinkPlaceholder[] = {
     }
 };
 
+static const struct TrainerMonNoItemDefaultMoves sParty_Bonny[] = {
+    {
+    .iv = 255,
+    .lvl = 4,
+    .species = SPECIES_RATTATA,
+    }
+};
+
 static const struct TrainerMonCompleteCustom sParty_Zeroth[] = {
     {
     .ivs = {31, 31, 31, 31, 31, 31},

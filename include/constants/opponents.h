@@ -856,7 +856,7 @@
 #define TRAINER_LEAF                        852
 #define TRAINER_BRENDAN_PLACEHOLDER         853
 #define TRAINER_MAY_PLACEHOLDER             854
-#define TRAINER_ZEROTH             			855
+#define TRAINER_BONNY	         			855
 #define TRAINER_UNUSED_856					856
 #define TRAINER_UNUSED_857					857 
 #define TRAINER_UNUSED_858                  858 
@@ -1023,7 +1023,7 @@
 #define TRAINER_UNUSED_1019                 1019
 #define TRAINER_UNUSED_1020                 1020
 #define TRAINER_UNUSED_1021                 1021
-#define TRAINER_UNUSED_1022                 1022
+#define TRAINER_ZEROTH	                    1022
 #define TRAINER_UNUSED_1023                 1023
 #define TRAINER_UNUSED_1024                 1024
 

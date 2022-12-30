@@ -68,6 +68,19 @@ Route102_Text_TianaDefeated:
 Route102_Text_TianaPostBattle:
 	.string "To keep winning my way up, I see that\n"
 	.string "I have to catch more POKéMON.$"
+	
+Route102_Text_BonnyIntro:
+	.string "My Rattata is in the top percentage\n"
+	.string "of all Rattata!$"
+	
+Route102_Text_BonnyDefeated:
+	.string "Oh... I'm out of Pokémon that can\n"
+	.string "fight.$"
+
+Route102_Text_BonnyPostBattle:
+	.string "In case you were wondering...\p"
+	.string "My Rattata is still in the top\n"
+	.string "percentage of all Rattata!$"
 
 Route103_Text_DaisyIntro:
 	.string "Did you feel the tug of our\n"

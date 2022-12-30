@@ -73,6 +73,11 @@ Route102_EventScript_Allen::
 	msgbox Route102_Text_AllenPostBattle, MSGBOX_AUTOCLOSE
 	end
 
+Route102_EventScript_Bonny::
+	trainerbattle_single TRAINER_BONNY, Route102_Text_BonnyIntro, Route102_Text_BonnyDefeated
+	msgbox Route102_Text_BonnyPostBattle, MSGBOX_AUTOCLOSE
+	end
+
 Route102_Text_WatchMeCatchPokemon:
 	.string "WALLY: {PLAYER}…\n"
 	.string "POKéMON hide in tall grass like this,\l"
