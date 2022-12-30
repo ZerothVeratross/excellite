@@ -22,6 +22,11 @@
       "map": "MAP_PYRE_WOODS_NORTHWEST",
       "offset": 0,
       "direction": "left"
+    },
+    {
+      "map": "MAP_PYRE_WOODS_SOUTHEAST",
+      "offset": 0,
+      "direction": "down"
     }
   ],
   "object_events": [

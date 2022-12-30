@@ -29,3 +29,7 @@ PyreWoods Northwest
 4, 4
 28, 25
 
+PyreWoods Southwest
+16, 28
+18, 22
+
