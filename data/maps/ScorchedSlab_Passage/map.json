@@ -17,7 +17,13 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 9,
+      "y": 74,
+      "elevation": 0,
+      "dest_map": "MAP_SCORCHED_SLAB",
+      "dest_warp_id": "1"
+    }
   ],
   "coord_events": [
 

@@ -4530,6 +4530,25 @@
       "secondary_tileset": "gTileset_forest",
       "border_filepath": "data/layouts/PyreWoods_Northwest/border.bin",
       "blockdata_filepath": "data/layouts/PyreWoods_Northwest/map.bin"
+	},
+      "id": "LAYOUT_SCORCHED_SLAB_PASSAGE",
+      "name": "ScorchedSlab_Passage_Layout",
+      "width": 35,
+      "height": 82,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/ScorchedSlab_Passage/border.bin",
+      "blockdata_filepath": "data/layouts/ScorchedSlab_Passage/map.bin"
+    },
+    {
+      "id": "LAYOUT_SCORCHED_SLAB_ARENA",
+      "name": "ScorchedSlab_Arena_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_forest",
+      "border_filepath": "data/layouts/ScorchedSlab_Arena/border.bin",
+      "blockdata_filepath": "data/layouts/ScorchedSlab_Arena/map.bin"
     }
   ]
 }

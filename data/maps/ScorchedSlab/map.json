@@ -38,9 +38,9 @@
     },
     {
       "x": 7,
-      "y": 2,
+      "y": 4,
       "elevation": 0,
-      "dest_map": "MAP_SCORCHED_SLAB",
+      "dest_map": "MAP_SCORCHED_SLAB_PASSAGE",
       "dest_warp_id": "0"
     }
   ],
