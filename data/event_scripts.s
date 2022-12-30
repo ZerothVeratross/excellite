@@ -1089,3 +1089,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/ScorchedSlab_Arena/scripts.inc"
 
 	.include "data/maps/PyreWoods_Southwest/scripts.inc"
+
+	.include "data/maps/PyreWoods_Southeast/scripts.inc"
+
+	.include "data/maps/PyreWoods_Northeast/scripts.inc"

@@ -413,6 +413,8 @@
 #define MAP_SCORCHED_SLAB_PASSAGE                    (118 | (24 << 8))
 #define MAP_SCORCHED_SLAB_ARENA                      (119 | (24 << 8))
 #define MAP_PYRE_WOODS_SOUTHWEST                     (120 | (24 << 8))
+#define MAP_PYRE_WOODS_SOUTHEAST                     (121 | (24 << 8))
+#define MAP_PYRE_WOODS_NORTHEAST                     (122 | (24 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (25 << 8))

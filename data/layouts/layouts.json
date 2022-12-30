@@ -4560,6 +4560,26 @@
       "secondary_tileset": "gTileset_forest",
       "border_filepath": "data/layouts/PyreWoods_Southwest/border.bin",
       "blockdata_filepath": "data/layouts/PyreWoods_Southwest/map.bin"
+    },
+    {
+      "id": "LAYOUT_PYRE_WOODS_SOUTHEAST",
+      "name": "PyreWoods_Southeast_Layout",
+      "width": 40,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_forest",
+      "border_filepath": "data/layouts/PyreWoods_Southeast/border.bin",
+      "blockdata_filepath": "data/layouts/PyreWoods_Southeast/map.bin"
+    },
+    {
+      "id": "LAYOUT_PYRE_WOODS_NORTHEAST",
+      "name": "PyreWoods_Northeast_Layout",
+      "width": 40,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_forest",
+      "border_filepath": "data/layouts/PyreWoods_Northeast/border.bin",
+      "blockdata_filepath": "data/layouts/PyreWoods_Northeast/map.bin"
     }
   ]
 }
