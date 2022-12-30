@@ -4530,8 +4530,8 @@
       "secondary_tileset": "gTileset_forest",
       "border_filepath": "data/layouts/PyreWoods_Northwest/border.bin",
       "blockdata_filepath": "data/layouts/PyreWoods_Northwest/map.bin"
-	},
-	{
+    },
+    {
       "id": "LAYOUT_SCORCHED_SLAB_PASSAGE",
       "name": "ScorchedSlab_Passage_Layout",
       "width": 35,

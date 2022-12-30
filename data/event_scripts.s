@@ -1082,8 +1082,8 @@ Common_EventScript_LegendaryFlewAway::
 
 	.include "data/maps/DesertCave_B4F/scripts.inc"
 
+	.include "data/maps/PyreWoods_Northwest/scripts.inc"
+
 	.include "data/maps/ScorchedSlab_Passage/scripts.inc"
 
 	.include "data/maps/ScorchedSlab_Arena/scripts.inc"
-
-	.include "data/maps/PyreWoods_Northwest/scripts.inc"

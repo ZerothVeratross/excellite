@@ -440,7 +440,9 @@
     "PetalburgWoods_Arena",
     "DesertCave_B3F",
     "DesertCave_B4F",
-    "PyreWoods_Northwest"
+    "PyreWoods_Northwest",
+    "ScorchedSlab_Passage",
+    "ScorchedSlab_Arena"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",
