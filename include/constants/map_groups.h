@@ -415,6 +415,9 @@
 #define MAP_PYRE_WOODS_SOUTHWEST                     (120 | (24 << 8))
 #define MAP_PYRE_WOODS_SOUTHEAST                     (121 | (24 << 8))
 #define MAP_PYRE_WOODS_NORTHEAST                     (122 | (24 << 8))
+#define MAP_PYRE_WOODS_TUNNEL_1F                     (123 | (24 << 8))
+#define MAP_PYRE_WOODS_TUNNEL_B1F                    (124 | (24 << 8))
+#define MAP_PYRE_WOODS_GYM                           (125 | (24 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (25 << 8))

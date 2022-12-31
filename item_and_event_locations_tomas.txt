@@ -32,9 +32,27 @@ PyreWoods Northwest
 PyreWoods Southwest
 16, 28
 18, 22
+38, 24
 
 PyreWoods Southeast
 35, 49
 32, 26
 22, 25
 
+PyreWoods Northeast
+29, 43
+
+PyreWoods Tunnel B1F
+8, 13
+
+PyreWoods Gym
+0, 15
+
+------------------------------------------
+Events
+
+Desert Cave B4F
+Regigigas (Only accessible after defeating all Regis)
+
+PyreWoods Gym
+Darkrai?

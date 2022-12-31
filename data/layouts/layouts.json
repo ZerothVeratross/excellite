@@ -4580,6 +4580,36 @@
       "secondary_tileset": "gTileset_forest",
       "border_filepath": "data/layouts/PyreWoods_Northeast/border.bin",
       "blockdata_filepath": "data/layouts/PyreWoods_Northeast/map.bin"
+    },
+    {
+      "id": "LAYOUT_PYRE_WOODS_TUNNEL_1F",
+      "name": "PyreWoods_Tunnel_1F_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Pacifidlog",
+      "border_filepath": "data/layouts/PyreWoods_Tunnel_1F/border.bin",
+      "blockdata_filepath": "data/layouts/PyreWoods_Tunnel_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_PYRE_WOODS_TUNNEL_B1F",
+      "name": "PyreWoods_Tunnel_B1F_Layout",
+      "width": 20,
+      "height": 28,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Pacifidlog",
+      "border_filepath": "data/layouts/PyreWoods_Tunnel_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/PyreWoods_Tunnel_B1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_PYRE_WOODS_GYM",
+      "name": "PyreWoods_Gym_Layout",
+      "width": 26,
+      "height": 16,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Pacifidlog",
+      "border_filepath": "data/layouts/PyreWoods_Gym/border.bin",
+      "blockdata_filepath": "data/layouts/PyreWoods_Gym/map.bin"
     }
   ]
 }

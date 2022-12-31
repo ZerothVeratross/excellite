@@ -445,7 +445,10 @@
     "ScorchedSlab_Arena",
     "PyreWoods_Southwest",
     "PyreWoods_Southeast",
-    "PyreWoods_Northeast"
+    "PyreWoods_Northeast",
+    "PyreWoods_Tunnel_1F",
+    "PyreWoods_Tunnel_B1F",
+    "PyreWoods_Gym"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",
