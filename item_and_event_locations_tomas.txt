@@ -22,6 +22,7 @@ Desert Cave B2F
 
 Desert Cave B3F
 19, 27
+3, 20
 
 ---------------------
 
