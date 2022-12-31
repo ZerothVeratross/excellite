@@ -1099,3 +1099,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/PyreWoods_Tunnel_B1F/scripts.inc"
 
 	.include "data/maps/PyreWoods_Gym/scripts.inc"
+
+	.include "data/maps/Route111_NoMirageTower/scripts.inc"

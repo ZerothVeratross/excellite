@@ -3914,7 +3914,7 @@
     {
       "id": "LAYOUT_ROUTE111_NO_MIRAGE_TOWER",
       "name": "Route111_NoMirageTower_Layout",
-      "width": 40,
+      "width": 50,
       "height": 140,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Mauville",
