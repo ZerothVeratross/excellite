@@ -754,7 +754,13 @@ static void TilesetAnim_Forest(u16 timer)
     if (timer % 16 == 4)
         QueueAnimTiles_Forest_Rose(timer / 16);
     if (timer % 16 == 5)
+        QueueAnimTiles_General_Water(timer / 16);
+    if (timer % 16 == 6)
+        QueueAnimTiles_General_SandWaterEdge(timer / 16);
+    if (timer % 16 == 7)
         QueueAnimTiles_General_Waterfall(timer / 16);
+    if (timer % 16 == 8)
+        QueueAnimTiles_General_LandWaterEdge(timer / 16);
 }
 
 //End custom TilesetAnim
