@@ -2,13 +2,12 @@ Items
 
 Route 111
 42, 38
-44, 78
+44, 78 (Bulldoze?)
 44, 39
 
 Desert Cave
 9, 13
 30, 25
-38, 14
 
 Desert Cave B1F
 35, 33
