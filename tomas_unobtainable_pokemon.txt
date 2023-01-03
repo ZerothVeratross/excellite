@@ -1,0 +1,410 @@
+Unobtainable Pokemon:
+
+001 Bulbasaur
+002 Ivysayr
+003 Venusaur
+-
+004 Charmander
+005 Charmeleon
+006 Charizard
+-
+007 Squirtle
+008 Wartortle
+009 Blastoise
+-
+010 Caterpie
+011 Metapod
+012 Butterfree
+-
+013 Weedle
+014 Kakuna
+015 Beedril
+-
+016 Pidgey
+017 Pidgeotto
+018 Pidgeot
+-
+019 Rattata
+020 Raticate
+-
+021 Spearow
+022 Fearow
+-
+023 Ekans
+024 Arbok
+-
+029 Nidoran♀
+030 Nidorina
+031 Nidoqueen
+-
+032 Nidoran♂
+033 Nidorino
+034 Nidoking
+-
+173 Cleffa
+035 Clefairy
+036 Clefable
+-
+046 Paras
+047 Parasect
+-
+048 Venonat
+049 Venomoth
+-
+050 Diglett
+051 Dugtrio
+-
+056 Mankey
+057 Primeape
+-
+058 Growlithe
+059 Arcanine
+-
+060 Poliwag
+061 Poliwhirl
+062 Poliwrath
+186 Politoed
+-
+069 Bellsprout
+070 Weepinbell
+071 Victreebel
+-
+077 Ponyta
+078 Rapidash
+-
+079 Slowpoke
+080 Slowbro
+199 Slowking
+-
+083 Farfetch'd
+-
+086 Seel
+087 Dewgong
+-
+090 Shellder
+091 Cloyster
+-
+092 Gastly
+093 Haunter
+094 Gengar
+-
+095 Onyx
+208 Steelix
+-
+096 Drowzee
+097 Hypno
+-
+098 Krabby
+099 Kingler
+-
+102 Exeggcute
+103 Exeggutor
+-
+104 Cubone
+105 Marowak
+-
+236 Tyrogue
+106 Hitmonlee
+107 Hitmonchan
+237 Hitmontop
+-
+108 Lickitung
+463 Lickilicky (Gen IV)
+-
+440 Happiny (Gen IV)
+113 Chansey
+242 Blissey
+-
+114 Tangela
+465 Tangrowth (Gen IV)
+-
+115 Kangaskhan
+-
+439 Mime Jr. (Gen IV)
+122 Mr. Mime
+-
+123 Scyther
+212 Scizor
+900 Kleavor (Gen VIII)
+-
+238 Smoochum
+124 Jynx
+-
+239 Elekid
+125 Electabuzz
+466 Electivire (Gen IV)
+-
+240 Magby
+126 Magmar
+467 Magmortar (Gen IV)
+-
+127 Pinsir
+-
+128 Tauros
+-
+131 Lapras
+-
+133 Eevee
+134 Vaporeon
+135 Jolteon
+136 Flareon
+196 Espeon
+197 Umbreon
+470 Leafeon (Gen IV)
+471 Glaceon (Gen IV)
+700 Sylveon (Gen VI)
+-
+137 Porygon
+233 Porygon2
+474 Porygon-Z (Gen IV)
+-
+138 Omanyte
+139 Omastar
+-
+140 Kabuto
+141 Kabutops
+-
+142 Aerodactyl
+-
+446 Munchlax (Gen IV)
+143 Snorlax
+-
+144 Articuno
+-
+145 Zapdos
+-
+146 Moltres
+-
+147 Dratini
+148 Dragonair
+149 Dragonite
+-
+150 Mewtwo
+-
+161 Sentret
+162 Furret
+-
+175 Togepi
+176 Togetic
+468 Togekiss (Gen IV)
+-
+187 Hoppip
+188 Skiploom
+189 Jumpluff
+-
+193 Yanma
+469 Yanmega (Gen IV)
+-
+198 Murkrow
+430 Honchkrow (Gen IV)
+-
+200 Misdreavus
+429 Mismagius (Gen IV)
+-
+201 Unown
+-
+206 Dunsparce
+-
+211 Qwilfish
+-
+215 Sneasel
+461 Weavile (Gen IV)
+-
+220 Swinub
+221 Piloswine
+473 Mamoswine (Gen IV)
+-
+225 Delibird
+-
+458 Mantyke (Gen IV)
+226 Mantine
+-
+243 Raikou
+-
+244 Entei
+-
+245 Suicune
+-
+246 Larvitar
+247 Pupitar
+248 Tyranitar
+-
+251 Celebi
+-
+307 Meditite
+308 Medicham
+-
+406 Budew (Gen IV)
+315 Roselia
+407 Roserade (Gen IV)
+-
+335 Zangoose
+-
+337 Lunatone
+-
+385 Jirachi
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Special Cases:
+
+172 Pichu
+025 Pikachu (Safari Zone)
+026 Raichu
+-
+052 Meowth (Trade at Battle Frontier)
+053 Persian
+-
+054 Psyduck (Safari Zone)
+055 Golduck
+-
+111 Rhyhorn (Safari Zone)
+112 Rhydon
+464 Rhyperior (Gen IV)
+-
+116 Horsea (Super Rod)
+117 Seadra
+230 Kingdra
+-
+120 Staryu (Super Rod)
+121 Starmie
+-
+152 Chikorita (Complete regional Pokedex)
+153 Bayleef
+154 Meganium
+-
+155 Cyndaquil (Complete regional Pokedex)
+156 Quilava
+157 Typhlosion
+-
+158 Totodile (Complete regional Pokedex)
+159 Croconaw
+160 Feraligatr
+-
+163 Hoothoot (Safari Zone)
+164 Noctowl
+-
+165 Ledyba (Safari Zone)
+166 Ledian
+-
+167 Spinarak (Safari Zone)
+168 Ariados
+-
+177 Natu (Safari Zone)
+178 Xatu
+-
+179 Mareep (Safari Zone)
+180 Flaaffy
+181 Ampharos
+-
+438 Bonsly (Gen IV)
+185 Sudowoodo (Only one at Battle Frontier)
+-
+190 Aipom (Safari Zone)
+424 Ambipom (Gen IV)
+-
+191 Sunkern (Safari Zone)
+192 Sunflora
+-
+194 Wooper (Safari Zone)
+195 Quagsire
+-
+203 Girafarig (Safari Zone)
+-
+204 Pineco (Safari Zone)
+205 Forretress
+-
+207 Gligar (Safari Zone)
+472 Gliscor (Gen IV)
+-
+209 Snubbull (Safari Zone)
+210 Granbull
+-
+213 Shuckle (Safari Zone)
+-
+214 Heracross (Safari Zone)
+-
+216 Teddiursa (Safari Zone)
+217 Ursaring
+901 Ursaluna (Gen IV)
+-
+222 Corsola (Super Rod)
+-
+223 Remoraid (Safari Zone)
+224 Octillery
+-
+228 Houndour (Safari Zone)
+229 Houndoom
+-
+231 Phanpy (Safari Zone)
+232 Donphan
+-
+234 Stantler (Safari Zone)
+899 Wyrdeer (Gen VIII)
+-
+235 Smeargle (Battle Frontier)
+-
+241 Miltank (Safari Zone)
+-
+252 Treecko (Starter)
+253 Grovyle
+254 Sceptile
+-
+255 Torchic (Starter)
+256 Combusken
+257 Blaziken
+-
+258 Mudkip (Starter)
+259 Marshtomp
+260 Swampert
+-
+273 Seedot (1%)
+274 Nuzleaf
+275 Shiftry
+-
+280 Ralts (4%)
+281 Kirlia
+282 Gardevoir
+475 Gallade (Gen IV)
+-
+283 Surskit (Swarm)
+284 Masquerain
+-
+287 Slakoth (5%)
+288 Vigoroth ()
+289 Slaking ()
+-
+300 Skitty (1%)
+301 Delcatty ()
+-
+303 Mawile (5% Victory Road)
+-
+313 Volbeat (1%)
+-
+349 Feebas (!"#$%#$"#$)
+350 Milotic
+-
+355 Duskull (Rarer than Shuppet)
+356 Dusclops
+477 Dusknoir (Gen IV)
+-
+357 Tropius (9%)
+-
+433 Chingling (Gen IV)
+358 Chimecho (2%)
+-
+359 Absol (8%)
+-
+369 Relicanth (5%)
+-
+371 Bagon (Too late)
+372 Shelgon
+373 Salamence
+-
+374 Beldum (Too late)
+375 Metang
+376 Metagross
