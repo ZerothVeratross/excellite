@@ -39,12 +39,6 @@ PyreWoods Southeast
 32, 26
 22, 25
 
-PyreWoods Northeast
-29, 43
-
-PyreWoods Tunnel B1F
-8, 13
-
 PyreWoods Gym
 0, 15
 
