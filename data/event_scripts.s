@@ -1101,3 +1101,9 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/PyreWoods_Gym/scripts.inc"
 
 	.include "data/maps/Route111_NoMirageTower/scripts.inc"
+
+	.include "data/maps/Route102_To_Route101/scripts.inc"
+
+	.include "data/maps/Route102_To_Route101_House/scripts.inc"
+
+	.include "data/maps/SuperSecretBase_Tree2/scripts.inc"

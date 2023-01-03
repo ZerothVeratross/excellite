@@ -4610,6 +4610,36 @@
       "secondary_tileset": "gTileset_Pacifidlog",
       "border_filepath": "data/layouts/PyreWoods_Gym/border.bin",
       "blockdata_filepath": "data/layouts/PyreWoods_Gym/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE102_TO_ROUTE101",
+      "name": "Route102_To_Route101_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route102_To_Route101/border.bin",
+      "blockdata_filepath": "data/layouts/Route102_To_Route101/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE102_TO_ROUTE101_HOUSE",
+      "name": "Route102_To_Route101_House_Layout",
+      "width": 10,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Route102_To_Route101_House/border.bin",
+      "blockdata_filepath": "data/layouts/Route102_To_Route101_House/map.bin"
+    },
+    {
+      "id": "LAYOUT_SUPER_SECRET_BASE_TREE2",
+      "name": "SuperSecretBase_Tree2_Layout",
+      "width": 28,
+      "height": 8,
+      "primary_tileset": "gTileset_SecretBase",
+      "secondary_tileset": "gTileset_SecretBaseTree",
+      "border_filepath": "data/layouts/SuperSecretBase_Tree2/border.bin",
+      "blockdata_filepath": "data/layouts/SuperSecretBase_Tree2/map.bin"
     }
   ]
 }
