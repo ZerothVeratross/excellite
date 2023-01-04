@@ -4640,6 +4640,16 @@
       "secondary_tileset": "gTileset_SecretBaseTree",
       "border_filepath": "data/layouts/SuperSecretBase_Tree2/border.bin",
       "blockdata_filepath": "data/layouts/SuperSecretBase_Tree2/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE104_WEST",
+      "name": "Route104_West_Layout",
+      "width": 52,
+      "height": 24,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Dewford",
+      "border_filepath": "data/layouts/Route104_West/border.bin",
+      "blockdata_filepath": "data/layouts/Route104_West/map.bin"
     }
   ]
 }

@@ -65,6 +65,7 @@
 #define MAP_UNDERWATER_ROUTE105      (56 | (0 << 8))
 #define MAP_UNDERWATER_ROUTE125      (57 | (0 << 8))
 #define MAP_ROUTE111_NO_MIRAGE_TOWER (58 | (0 << 8))
+#define MAP_ROUTE104_WEST            (59 | (0 << 8))
 
 // gMapGroup_IndoorLittleroot
 #define MAP_LITTLEROOT_TOWN_BRENDANS_HOUSE_1F    (0 | (1 << 8))
