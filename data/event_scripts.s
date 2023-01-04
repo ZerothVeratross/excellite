@@ -1109,3 +1109,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/SuperSecretBase_Tree2/scripts.inc"
 
 	.include "data/maps/Route104_West/scripts.inc"
+
+	.include "data/maps/MtPyre_7F/scripts.inc"
+
+	.include "data/maps/MtPyre_Arena/scripts.inc"

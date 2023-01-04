@@ -455,7 +455,9 @@
     "DesertCave_B1F",
     "DesertCave_B2F",
     "DesertCave_B3F",
-    "DesertCave_B4F"
+    "DesertCave_B4F",
+    "MtPyre_7F",
+    "MtPyre_Arena"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

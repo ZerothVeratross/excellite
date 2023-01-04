@@ -50,3 +50,6 @@ Regigigas (Only accessible after defeating all Regis)
 
 PyreWoods Gym
 Darkrai?
+
+MtPyre Arena
+Trainer RedMega

@@ -424,6 +424,8 @@
 #define MAP_DESERT_CAVE_B2F                          (123 | (25 << 8))
 #define MAP_DESERT_CAVE_B3F                          (124 | (25 << 8))
 #define MAP_DESERT_CAVE_B4F                          (125 | (25 << 8))
+#define MAP_MT_PYRE_7F                               (126 | (25 << 8))
+#define MAP_MT_PYRE_ARENA                            (127 | (25 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (26 << 8))
