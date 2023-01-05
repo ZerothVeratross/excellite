@@ -4650,6 +4650,26 @@
       "secondary_tileset": "gTileset_Dewford",
       "border_filepath": "data/layouts/Route104_West/border.bin",
       "blockdata_filepath": "data/layouts/Route104_West/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_PYRE_7F",
+      "name": "MtPyre_7F_Layout",
+      "width": 13,
+      "height": 13,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Facility",
+      "border_filepath": "data/layouts/MtPyre_7F/border.bin",
+      "blockdata_filepath": "data/layouts/MtPyre_7F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_PYRE_ARENA",
+      "name": "MtPyre_Arena_Layout",
+      "width": 33,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Facility",
+      "border_filepath": "data/layouts/MtPyre_Arena/border.bin",
+      "blockdata_filepath": "data/layouts/MtPyre_Arena/map.bin"
     }
   ]
 }
