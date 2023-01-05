@@ -23,6 +23,13 @@
       "elevation": 0,
       "dest_map": "MAP_SCORCHED_SLAB",
       "dest_warp_id": "1"
+    },
+    {
+      "x": 16,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_SCORCHED_SLAB_ARENA",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

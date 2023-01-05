@@ -572,15 +572,6 @@ bool8 MetatileBehavior_IsSecretBaseScenery1(u8 metatileBehavior)
         return FALSE;
 }
 
-// Used to check for a valid tile when placing decorations
-bool8 MetatileBehavior_IsSecretBaseFloor(u8 metatileBehavior)
-{
-    if (metatileBehavior == MB_SECRET_BASE_FLOOR)
-        return TRUE;
-    else
-        return FALSE;
-}
-
 // Used by the rock/grass floor space that the secret base trainer stands on
 bool8 MetatileBehavior_IsSecretBaseTrainerSpot(u8 metatileBehavior)
 {
@@ -1406,6 +1397,25 @@ bool8 MetatileBehavior_IsLongGrassSouthEdge(u8 metatileBehavior)
 bool8 MetatileBehavior_IsTrainerHillTimer(u8 metatileBehavior)
 {
     if (metatileBehavior == MB_TRAINER_HILL_TIMER)
+        return TRUE;
+    else
+        return FALSE;
+}
+
+// Start custom metatiles
+
+bool8 MetatileBehavior_IsFishableExclusive(u8 metatileBehavior)
+{
+	if (metatileBehavior == MB_FISHABLE_EXCLUSIVE)
+		return TRUE;
+	else
+		return FALSE;
+}
+
+// Used to check for a valid tile when placing decorations
+bool8 MetatileBehavior_IsSecretBaseFloor(u8 metatileBehavior)
+{
+    if (metatileBehavior == MB_SECRET_BASE_FLOOR)
         return TRUE;
     else
         return FALSE;
