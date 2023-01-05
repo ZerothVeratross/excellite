@@ -1710,6 +1710,30 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "map_section": "MAPSEC_DESERT_CAVE",
+      "name": "DESERT CAVE",
+      "x": 9,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "map_section": "MAPSEC_PYREWOODS",
+      "name": "PYREWOODS",
+      "x": 17,
+      "y": 6,
+      "width": 2,
+      "height": 2
+    },
+    {
+      "map_section": "MAPSEC_ROUTE_102_TO_101",
+      "name": "ROUTE 102 TO 101",
+      "x": 3,
+      "y": 10,
+      "width": 1,
+      "height": 1
     }
   ]
 }

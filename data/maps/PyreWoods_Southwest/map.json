@@ -3,7 +3,7 @@
   "name": "PyreWoods_Southwest",
   "layout": "LAYOUT_PYRE_WOODS_SOUTHWEST",
   "music": "MUS_RG_VIRIDIAN_FOREST",
-  "region_map_section": "MAPSEC_ROUTE_123",
+  "region_map_section": "MAPSEC_PYREWOODS",
   "requires_flash": false,
   "weather": "WEATHER_SHADE",
   "map_type": "MAP_TYPE_ROUTE",
