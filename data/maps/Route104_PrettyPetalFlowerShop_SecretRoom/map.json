@@ -25,12 +25,12 @@
       "x": 8,
       "y": 13,
       "elevation": 0,
-      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
+      "script": "PrettyPetal_Basement_EventScript_ItemFreshWater",
       "flag": "FLAG_ITEM_PRETTY_PETAL_BASEMENT_FRESH_WATER_1"
     },
     {
@@ -38,12 +38,12 @@
       "x": 9,
       "y": 13,
       "elevation": 0,
-      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
+      "script": "PrettyPetal_Basement_EventScript_ItemFreshWater",
       "flag": "FLAG_ITEM_PRETTY_PETAL_BASEMENT_FRESH_WATER_2"
     },
     {
@@ -51,12 +51,12 @@
       "x": 10,
       "y": 13,
       "elevation": 0,
-      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
+      "script": "PrettyPetal_Basement_EventScript_ItemFreshWater",
       "flag": "FLAG_ITEM_PRETTY_PETAL_BASEMENT_FRESH_WATER_3"
     },
     {
@@ -64,13 +64,13 @@
       "x": 8,
       "y": 16,
       "elevation": 0,
-      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
-      "flag": "FLAG_ITEM_PRETTY_PETAL_BASEMENT_TM"
+      "script": "PrettyPetal_Basement_EventScript_ItemTM",
+      "flag": "FLAG_ITEM_PRETTY_PETAL_BASEMENT_TM_GRASSY_TERRAIN"
     }
   ],
   "warp_events": [
@@ -85,8 +85,8 @@
       "x": 1,
       "y": 17,
       "elevation": 0,
-      "item": "ITEM_NONE",
-      "flag": "FLAG_TEMP_1"
+      "item": "ITEM_LEAF_STONE",
+      "flag": "FLAG_HIDDEN_ITEM_PRETTY_PETAL_BASEMENT_LEAF_STONE"
     }
   ]
 }

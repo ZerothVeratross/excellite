@@ -76,6 +76,8 @@ static void QueueAnimTiles_SootopolisGym_Waterfalls(u16);
 static void QueueAnimTiles_EliteFour_GroundLights(u16);
 static void QueueAnimTiles_EliteFour_WallLights(u16);
 static void QueueAnimTiles_Secret_Base_Flower(u16);
+static void QueueAnimTiles_Secret_Base_Water(u16);
+static void QueueAnimTiles_Secret_Base_Waterfall(u16);
 static void QueueAnimTiles_Forest_BlueBlossom(u16);
 static void QueueAnimTiles_Forest_RedBlossom(u16);
 static void QueueAnimTiles_Forest_BlueRose(u16);
@@ -739,6 +741,10 @@ static void TilesetAnim_Secret_Base(u16 timer)
 {
     if (timer % 16 == 0)
         QueueAnimTiles_Secret_Base_Flower(timer / 16);
+	if (timer % 16 == 1)
+		QueueAnimTiles_Secret_Base_Waterfall(timer / 16);
+	if (timer % 16 == 1)
+		QueueAnimTiles_Secret_Base_Water(timer / 16);
 }
 
 static void TilesetAnim_Forest(u16 timer)
@@ -791,6 +797,18 @@ static void QueueAnimTiles_Secret_Base_Flower(u16 timer)
 {
 	u16 i = timer % ARRAY_COUNT(gTilesetAnims_Secret_Base_Flower);
     AppendTilesetAnimToBuffer(gTilesetAnims_Secret_Base_Flower[i], (u16 *)(BG_VRAM + TILE_OFFSET_4BPP(844)), 4 * TILE_SIZE_4BPP);
+}
+
+static void QueueAnimTiles_Secret_Base_Waterfall(u16 timer)
+{
+    u16 i = timer % ARRAY_COUNT(gTilesetAnims_General_Waterfall);
+    AppendTilesetAnimToBuffer(gTilesetAnims_General_Waterfall[i], (u16 *)(BG_VRAM + TILE_OFFSET_4BPP(992)), 6 * TILE_SIZE_4BPP);
+}
+
+static void QueueAnimTiles_Secret_Base_Water(u16 timer)
+{
+    u8 i = timer % ARRAY_COUNT(gTilesetAnims_General_Water);
+    AppendTilesetAnimToBuffer(gTilesetAnims_General_Water[i], (u16 *)(BG_VRAM + TILE_OFFSET_4BPP(928)), 30 * TILE_SIZE_4BPP);
 }
 
 static void QueueAnimTiles_Forest_Flower(u16 timer)

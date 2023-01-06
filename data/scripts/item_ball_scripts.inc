@@ -35,7 +35,7 @@ PrettyPetal_Basement_EventScript_ItemFreshWater::
 	end
 
 PrettyPetal_Basement_EventScript_ItemTM::
-	finditem ITEM_POTION
+	finditem ITEM_TM89
 	end
 
 Route105_EventScript_ItemIron::
