@@ -8901,6 +8901,61 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
+    [ITEM_TM101_SWORDS_DANCE] =
+    {
+        .name = _("TM101"),
+        .itemId = ITEM_TM101_SWORDS_DANCE,
+        .price = 3000,
+        .description = sTM101Desc,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+    },
+
+    [ITEM_TM102_BODY_SLAM] =
+    {
+        .name = _("TM102"),
+        .itemId = ITEM_TM102_BODY_SLAM,
+        .price = 3000,
+        .description = sTM102Desc,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+    },
+
+    [ITEM_TM103_FLAMETHROWER] =
+    {
+        .name = _("TM103"),
+        .itemId = ITEM_TM103_FLAMETHROWER,
+        .price = 3000,
+        .description = sTM103Desc,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+    },
+
+    [ITEM_TM104_HYDRO_PUMP] =
+    {
+        .name = _("TM104"),
+        .itemId = ITEM_TM104_HYDRO_PUMP,
+        .price = 3000,
+        .description = sTM104Desc,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+    },
+
+    [ITEM_TM105_SECRET_POWER] =
+    {
+        .name = _("TM105"),
+        .itemId = ITEM_TM105_SECRET_POWER,
+        .price = 3000,
+        .description = sTM105Desc,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+    },
+
     [ITEM_HM01_CUT] =
     {
         .name = _("HM01"),
