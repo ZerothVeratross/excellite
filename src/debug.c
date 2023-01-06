@@ -1061,8 +1061,8 @@ static void DebugAction_Util_Warp_SelectMap(u8 taskId)
                 gTasks[taskId].data[4] += 1;
         }
 
-        ConvertIntToDecimalStringN(gStringVar1, gTasks[taskId].data[3], STR_CONV_MODE_LEADING_ZEROS, 2);
-        ConvertIntToDecimalStringN(gStringVar2, MAP_GROUP_COUNT[gTasks[taskId].data[5]] - 1, STR_CONV_MODE_LEADING_ZEROS, 2);
+        ConvertIntToDecimalStringN(gStringVar1, gTasks[taskId].data[3], STR_CONV_MODE_LEADING_ZEROS, 3);
+        ConvertIntToDecimalStringN(gStringVar2, MAP_GROUP_COUNT[gTasks[taskId].data[5]] - 1, STR_CONV_MODE_LEADING_ZEROS, 3);
         StringExpandPlaceholders(gStringVar1, sDebugText_Util_WarpToMap_SelMax);
         GetMapName(gStringVar2, Overworld_GetMapHeaderByGroupAndId(gTasks[taskId].data[5], gTasks[taskId].data[3])->regionMapSectionId, 0);
         StringCopy(gStringVar3, gText_DigitIndicator[gTasks[taskId].data[4]]);
@@ -1077,7 +1077,7 @@ static void DebugAction_Util_Warp_SelectMap(u8 taskId)
         gTasks[taskId].data[4] = 0;
 
         StringCopy(gStringVar3, gText_DigitIndicator[gTasks[taskId].data[4]]);
-        ConvertIntToDecimalStringN(gStringVar1, gTasks[taskId].data[3], STR_CONV_MODE_LEADING_ZEROS, 2);
+        ConvertIntToDecimalStringN(gStringVar1, gTasks[taskId].data[3], STR_CONV_MODE_LEADING_ZEROS, 3);
         StringExpandPlaceholders(gStringVar4, sDebugText_Util_WarpToMap_SelectWarp);
         AddTextPrinterParameterized(gTasks[taskId].data[2], 1, gStringVar4, 1, 1, 0, NULL);
         gTasks[taskId].func = DebugAction_Util_Warp_SelectWarp;
