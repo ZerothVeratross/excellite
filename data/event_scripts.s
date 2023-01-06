@@ -1113,3 +1113,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/MtPyre_7F/scripts.inc"
 
 	.include "data/maps/MtPyre_Arena/scripts.inc"
+
+	.include "data/maps/Route104_PrettyPetalFlowerShop_Basement/scripts.inc"
+
+	.include "data/maps/Route104_PrettyPetalFlowerShop_SecretRoom/scripts.inc"

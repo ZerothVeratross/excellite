@@ -59,6 +59,7 @@
     "Route102_To_Route101",
     "Route103",
     "Route104",
+    "Route104_West",
     "Route105",
     "Route106",
     "Route107",
@@ -96,8 +97,7 @@
     "Underwater_Route129",
     "Underwater_Route105",
     "Underwater_Route125",
-    "Route111_NoMirageTower",
-    "Route104_West"
+    "Route111_NoMirageTower"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",
@@ -305,7 +305,9 @@
   ],
   "gMapGroup_IndoorRoute104": [
     "Route104_MrBrineysHouse",
-    "Route104_PrettyPetalFlowerShop"
+    "Route104_PrettyPetalFlowerShop",
+    "Route104_PrettyPetalFlowerShop_Basement",
+    "Route104_PrettyPetalFlowerShop_SecretRoom"
   ],
   "gMapGroup_IndoorRoute111": [
     "Route111_WinstrateFamilysHouse",

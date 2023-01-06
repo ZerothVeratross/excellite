@@ -30,6 +30,14 @@ Route104_EventScript_ItemPotion::
 	finditem ITEM_POTION
 	end
 
+PrettyPetal_Basement_EventScript_ItemFreshWater::
+	finditem ITEM_FRESH_WATER
+	end
+
+PrettyPetal_Basement_EventScript_ItemTM::
+	finditem ITEM_POTION
+	end
+
 Route105_EventScript_ItemIron::
 	finditem ITEM_IRON
 	end
@@ -696,7 +704,7 @@ DevRoom_EventScript_ItemHMs::
 // Unlock all field HM moves for developer
 DevRoom_EventScript_DeveloperUnlocks::
 	finditem ITEM_MASTER_BALL
-	finditem ITEM_TM43_SECRET_POWER
+	finditem ITEM_TM105
 	setflag FLAG_BADGE01_GET
 	setflag FLAG_BADGE02_GET
 	setflag FLAG_BADGE03_GET

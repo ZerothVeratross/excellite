@@ -4670,6 +4670,26 @@
       "secondary_tileset": "gTileset_Facility",
       "border_filepath": "data/layouts/MtPyre_Arena/border.bin",
       "blockdata_filepath": "data/layouts/MtPyre_Arena/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE104_PRETTY_PETAL_FLOWER_SHOP_BASEMENT",
+      "name": "Route104_PrettyPetalFlowerShop_Basement_Layout",
+      "width": 15,
+      "height": 9,
+      "primary_tileset": "gTileset_SecretBase",
+      "secondary_tileset": "gTileset_SecretBaseShrub",
+      "border_filepath": "data/layouts/Route104_PrettyPetalFlowerShop_Basement/border.bin",
+      "blockdata_filepath": "data/layouts/Route104_PrettyPetalFlowerShop_Basement/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE104_PRETTY_PETAL_FLOWER_SHOP_SECRET_ROOM",
+      "name": "Route104_PrettyPetalFlowerShop_SecretRoom_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_SecretBase",
+      "secondary_tileset": "gTileset_SecretBaseShrub",
+      "border_filepath": "data/layouts/Route104_PrettyPetalFlowerShop_SecretRoom/border.bin",
+      "blockdata_filepath": "data/layouts/Route104_PrettyPetalFlowerShop_SecretRoom/map.bin"
     }
   ]
 }
