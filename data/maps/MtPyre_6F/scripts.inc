@@ -1,5 +1,19 @@
 MtPyre_6F_MapScripts::
+	map_script MAP_SCRIPT_ON_LOAD, MtPyre_6F_OnLoad
 	.byte 0
+
+MtPyre_6F_OnLoad::
+	call_if_set FLAG_SYS_GAME_CLEAR, MtPyre_6F_EventScript_OpenArena
+	end
+
+MtPyre_6F_EventScript_OpenArena::
+	setmetatile 9, 0, METATILE_Facility_Stairs_TopLeft, TRUE
+	setmetatile 10, 0, METATILE_Facility_Stairs_Top, TRUE
+	setmetatile 11, 0, METATILE_Facility_Stairs_TopRight, TRUE
+	setmetatile 9, 1, METATILE_Facility_Stairs_Left, TRUE
+	setmetatile 10, 1, METATILE_Facility_Stairs_Bottom, FALSE
+	setmetatile 11, 1, METATILE_Facility_Stairs_Right, TRUE
+	return
 
 MtPyre_6F_EventScript_Valerie::
 	trainerbattle_single TRAINER_VALERIE_1, MtPyre_6F_Text_ValerieIntro, MtPyre_6F_Text_ValerieDefeat, MtPyre_6F_EventScript_RegisterValerie

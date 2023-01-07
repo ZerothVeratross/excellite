@@ -1344,15 +1344,15 @@
 
 // System Flags
 
-#define SYSTEM_FLAGS                                   (TRAINER_FLAGS_END + 1) // 0x860
+#define SYSTEM_FLAGS                                   (TRAINER_FLAGS_END + 1) // 0x900
 
-#define FLAG_SYS_POKEMON_GET                         (SYSTEM_FLAGS + 0x0) // FLAG_0x860
-#define FLAG_SYS_POKEDEX_GET                         (SYSTEM_FLAGS + 0x1)
-#define FLAG_SYS_POKENAV_GET                         (SYSTEM_FLAGS + 0x2)
+#define FLAG_SYS_POKEMON_GET                         (SYSTEM_FLAGS + 0x0) // 0x900
+#define FLAG_SYS_POKEDEX_GET                         (SYSTEM_FLAGS + 0x1) // 0x901
+#define FLAG_SYS_POKENAV_GET                         (SYSTEM_FLAGS + 0x2) // 0x902
 #define FLAG_UNUSED_0x863                            (SYSTEM_FLAGS + 0x3) // Unused Flag
-#define FLAG_SYS_GAME_CLEAR                          (SYSTEM_FLAGS + 0x4)
-#define FLAG_SYS_CHAT_USED                           (SYSTEM_FLAGS + 0x5)
-#define FLAG_SYS_HIPSTER_MEET                        (SYSTEM_FLAGS + 0x6)
+#define FLAG_SYS_GAME_CLEAR                          (SYSTEM_FLAGS + 0x4) // 0x903
+#define FLAG_SYS_CHAT_USED                           (SYSTEM_FLAGS + 0x5) // 0x904
+#define FLAG_SYS_HIPSTER_MEET                        (SYSTEM_FLAGS + 0x6) // 0x905
 
 // Badges
 #define FLAG_BADGE01_GET                             (SYSTEM_FLAGS + 0x7)

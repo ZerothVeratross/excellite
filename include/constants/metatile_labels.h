@@ -121,6 +121,7 @@
 #define METATILE_Cave_CrackedFloor                       0x22F
 #define METATILE_Cave_CrackedFloor_Hole                  0x206
 #define METATILE_Cave_EntranceCover                      0x229
+#define METATILE_Cave_Ladder_GoingDown                   0x23F
 #define METATILE_Cave_LeftWall                           0x2F3
 #define METATILE_Cave_RightWall                          0x2F4
 #define METATILE_Cave_Sand                               0x2FB
@@ -173,6 +174,12 @@
 #define METATILE_Facility_NewMauvilleDoor_Open_Tile3    0x2CB
 #define METATILE_Facility_NewMauvilleDoor_Open_Tile4    0x2CC
 #define METATILE_Facility_NewMauvilleDoor_Open_Tile5    0x2CD
+#define METATILE_Facility_Stairs_Bottom                 0x2BC
+#define METATILE_Facility_Stairs_Left                   0x2BB
+#define METATILE_Facility_Stairs_Right                  0x2BD
+#define METATILE_Facility_Stairs_Top                    0x2B4
+#define METATILE_Facility_Stairs_TopLeft                0x2B3
+#define METATILE_Facility_Stairs_TopRight               0x2B5
 
 // gTileset_Fallarbor
 #define METATILE_Fallarbor_AshField                  0x218
@@ -456,6 +463,8 @@
 #define METATILE_SecretBaseShrub_EdgeBehindBush                 0x369
 #define METATILE_SecretBaseShrub_EdgeBehindTreeBase             0x381
 #define METATILE_SecretBaseShrub_EdgeBehindTreeTop              0x371
+#define METATILE_SecretBaseShrub_ExposedCorner_LowerLeft        0x20D
+#define METATILE_SecretBaseShrub_ExposedCorner_UpperLeft        0x205
 #define METATILE_SecretBaseShrub_LeftCornerBehindBush           0x368
 #define METATILE_SecretBaseShrub_LeftCornerBehindLeftBigTree    0x36C
 #define METATILE_SecretBaseShrub_LeftCornerBehindRightBigTree   0x375
@@ -468,6 +477,8 @@
 #define METATILE_SecretBaseShrub_RightCornerBehindTreeBase      0x382
 #define METATILE_SecretBaseShrub_RightCornerBehindTreeTop       0x372
 #define METATILE_SecretBaseShrub_RightWallBehindTreeTop         0x37B
+#define METATILE_SecretBaseShrub_Wall_Left                      0x209
+#define METATILE_SecretBaseShrub_Wall_Right                     0x20B
 
 // gTileset_SecretBaseTree
 #define METATILE_SecretBaseTree_AttractMat_BottomLeft       0x313
