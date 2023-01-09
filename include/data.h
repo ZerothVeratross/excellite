@@ -66,7 +66,9 @@ struct TrainerMonCompleteCustom
     u16 heldItem;
     u16 moves[MAX_MON_MOVES];
 	u8 abilityNums;
+	u8 gender;
 	u8 nature;
+	u8 shiny;
 };
 
 #define NO_ITEM_DEFAULT_MOVES(party) { .NoItemDefaultMoves = party }, .partySize = ARRAY_COUNT(party), .partyFlags = 0

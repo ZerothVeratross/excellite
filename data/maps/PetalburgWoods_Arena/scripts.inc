@@ -7,7 +7,7 @@ PetalburgWoods_Arena_OnResume:
 	end
 
 PetalburgWoods_Arena_EventScript_Zeroth::
-	trainerbattle_single TRAINER_ZEROTH, PetalburgWoods_Arena_Text_ZerothIntro, PetalburgWoods_Arena_Text_ZerothDefeat
+	trainerbattle_single TRAINER_REDMEGA, PetalburgWoods_Arena_Text_ZerothIntro, PetalburgWoods_Arena_Text_ZerothDefeat
 	msgbox PetalburgWoods_Arena_Text_ZerothPostBattle, MSGBOX_AUTOCLOSE
 	end
 

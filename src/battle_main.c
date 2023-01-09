@@ -1979,17 +1979,32 @@ static u8 CreateNPCTrainerParty(struct Pokemon *party, u16 trainerNum, bool8 fir
             case F_TRAINER_PARTY_COMPLETE_CUSTOM:
             {
                 const struct TrainerMonCompleteCustom *partyData = gTrainers[trainerNum].party.CompleteCustom;
+				u32 OTID = Random32();
 
                 for (j = 0; gSpeciesNames[partyData[i].species][j] != EOS; j++)
                     nameHash += gSpeciesNames[partyData[i].species][j];
 
-                do
+				if (partyData[i].shiny != 0)
 				{
-					personalityValue = Random32();
+					do
+					{
+						personalityValue = Random32();
+						personalityValue = ((((Random() % SHINY_ODDS) ^ (HIHALF(OTID) ^ LOHALF(OTID))) ^ LOHALF(personalityValue)) << 16) | LOHALF(personalityValue);
+					}
+					while (partyData[i].nature != GetNatureFromPersonality(personalityValue)
+						|| partyData[i].gender != GetGenderFromSpeciesAndPersonality(partyData[i].species, personalityValue));
 				}
-				while (partyData[i].nature != GetNatureFromPersonality(personalityValue));
+				else
+				{
+					do
+					{
+						personalityValue = Random32();
+					}
+					while (partyData[i].nature != GetNatureFromPersonality(personalityValue)
+						|| partyData[i].gender != GetGenderFromSpeciesAndPersonality(partyData[i].species, personalityValue));
+				}
                 fixedIV = USE_RANDOM_IVS;
-                CreateMon(&party[i], partyData[i].species, partyData[i].lvl, fixedIV, TRUE, personalityValue, OT_ID_RANDOM_NO_SHINY, 0);
+                CreateMon(&party[i], partyData[i].species, partyData[i].lvl, fixedIV, TRUE, personalityValue, OT_ID_PRESET, OTID);
 
                 SetMonData(&party[i], MON_DATA_HELD_ITEM, &partyData[i].heldItem);
 				SetMonData(&party[i], MON_DATA_ABILITY_NUM, &partyData[i].abilityNums);

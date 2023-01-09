@@ -1022,7 +1022,7 @@
 #define TRAINER_UNUSED_1018                 1018
 #define TRAINER_UNUSED_1019                 1019
 #define TRAINER_UNUSED_1020                 1020
-#define TRAINER_UNUSED_1021                 1021
+#define TRAINER_REDMEGA		                1021
 #define TRAINER_ZEROTH	                    1022
 #define TRAINER_UNUSED_1023                 1023
 #define TRAINER_UNUSED_1024                 1024
