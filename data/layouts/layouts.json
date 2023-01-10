@@ -4690,6 +4690,16 @@
       "secondary_tileset": "gTileset_SecretBaseShrub",
       "border_filepath": "data/layouts/Route104_PrettyPetalFlowerShop_SecretRoom/border.bin",
       "blockdata_filepath": "data/layouts/Route104_PrettyPetalFlowerShop_SecretRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE123_BERRY_MASTER_GARDEN",
+      "name": "Route123_BerryMasterGarden_Layout",
+      "width": 30,
+      "height": 25,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lilycove",
+      "border_filepath": "data/layouts/Route123_BerryMasterGarden/border.bin",
+      "blockdata_filepath": "data/layouts/Route123_BerryMasterGarden/map.bin"
     }
   ]
 }
