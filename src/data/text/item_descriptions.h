@@ -4096,6 +4096,6 @@ static const u8 sSapphireDesc[] = _(
     "honesty.");
 
 static const u8 sDarkSampleDesc[] = _(
-    "A mysterious sample\n"
-    "with dark tones.\n"
-    "Seems important.");
+    "A mysterious sample.\n"
+    "It has dark tones\n"
+    "and implications.");

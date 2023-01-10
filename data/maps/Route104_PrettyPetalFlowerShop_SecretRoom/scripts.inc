@@ -7,5 +7,5 @@ Route104_PrettyPetalFlowerShop_SecretRoom_EventScript_ItemDarkSample::
 	end
 
 Route104_PrettyPetalFlowerShop_SecretRoom_Text_WhatAreTheyDoing:
-	.string "What are they doing at that\n"
+	.string "What are they doing in this\n"
 	.string "flower shop?$"
