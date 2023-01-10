@@ -1117,3 +1117,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route104_PrettyPetalFlowerShop_Basement/scripts.inc"
 
 	.include "data/maps/Route104_PrettyPetalFlowerShop_SecretRoom/scripts.inc"
+
+	.include "data/maps/Route123_BerryMasterGarden/scripts.inc"
