@@ -1181,7 +1181,10 @@
 #define ITEM_RUBY 				856
 #define ITEM_SAPPHIRE 			857
 
-#define ITEMS_COUNT 858
+// New items
+#define ITEM_DARK_SAMPLE 		858
+
+#define ITEMS_COUNT 859
 #define ITEM_FIELD_ARROW ITEMS_COUNT
 
 // A special item id associated with "Cancel"/"Exit" etc. in a list of items or decorations

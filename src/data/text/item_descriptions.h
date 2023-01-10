@@ -4094,3 +4094,8 @@ static const u8 sSapphireDesc[] = _(
     "A brilliant blue gem\n"
     "that symbolizes\n"
     "honesty.");
+
+static const u8 sDarkSampleDesc[] = _(
+    "A mysterious sample\n"
+    "with dark tones.\n"
+    "Seems important.");

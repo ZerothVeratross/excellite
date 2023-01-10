@@ -1021,7 +1021,7 @@
 #define TRAINER_UNUSED_1017                 1017
 #define TRAINER_UNUSED_1018                 1018
 #define TRAINER_UNUSED_1019                 1019
-#define TRAINER_UNUSED_1020                 1020
+#define TRAINER_RAMAPAN	                    1020
 #define TRAINER_REDMEGA		                1021
 #define TRAINER_ZEROTH	                    1022
 #define TRAINER_UNUSED_1023                 1023
