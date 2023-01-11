@@ -11152,4 +11152,16 @@ const struct Item gItems[] =
         .type = ITEM_USE_BAG_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
     },
+
+    [ITEM_DARK_SAMPLE] =
+    {
+        .name = _("Dark Sample"),
+        .itemId = ITEM_DARK_SAMPLE,
+        .price = 0,
+        .description = sDarkSampleDesc,
+        .registrability = TRUE,
+        .pocket = POCKET_KEY_ITEMS,
+        .type = ITEM_USE_BAG_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
+    },
 };

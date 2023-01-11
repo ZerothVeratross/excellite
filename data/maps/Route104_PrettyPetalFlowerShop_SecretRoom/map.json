@@ -60,7 +60,7 @@
       "flag": "FLAG_ITEM_PRETTY_PETAL_BASEMENT_FRESH_WATER_3"
     },
     {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
+      "graphics_id": "OBJ_EVENT_GFX_TM_BALL",
       "x": 8,
       "y": 16,
       "elevation": 0,
@@ -73,7 +73,7 @@
       "flag": "FLAG_ITEM_PRETTY_PETAL_BASEMENT_TM_GRASSY_TERRAIN"
     },
     {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
+      "graphics_id": "OBJ_EVENT_GFX_KEY_BALL",
       "x": 1,
       "y": 15,
       "elevation": 0,
@@ -82,8 +82,8 @@
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
-      "script": "NULL",
-      "flag": "0"
+      "script": "Route104_PrettyPetalFlowerShop_SecretRoom_EventScript_ItemDarkSample",
+      "flag": "FLAG_ITEM_PRETTY_PETAL_BASEMENT_DARK_SAMPLE"
     }
   ],
   "warp_events": [

@@ -1240,7 +1240,7 @@
 #define FLAG_ITEM_PRETTY_PETAL_BASEMENT_FRESH_WATER_2               0x4A3
 #define FLAG_ITEM_PRETTY_PETAL_BASEMENT_FRESH_WATER_3               0x4A4
 #define FLAG_ITEM_PRETTY_PETAL_BASEMENT_TM_GRASSY_TERRAIN           0x4A5
-#define FLAG_UNUSED_0x4A6                                           0x4A6 // Unused Flag
+#define FLAG_ITEM_PRETTY_PETAL_BASEMENT_DARK_SAMPLE                 0x4A6
 #define FLAG_UNUSED_0x4A7                                           0x4A7 // Unused Flag
 #define FLAG_UNUSED_0x4A8                                           0x4A8 // Unused Flag
 #define FLAG_UNUSED_0x4A9                                           0x4A9 // Unused Flag
