@@ -351,6 +351,10 @@ Route116_EventScript_Johnson::
 	msgbox Route116_Text_JohnsonPostBattle, MSGBOX_AUTOCLOSE
 	end
 
+Route116_EventScript_BirdWatcher::
+	msgbox Route116_Text_YouFoundMe, MSGBOX_AUTOCLOSE
+	end
+
 Route116_Text_ScoundrelMadeOffWithPeeko:
 	.string "Ohhh, what am I to do?\p"
 	.string "We were on our walk, Peeko and I, when\n"
@@ -471,3 +475,12 @@ Route116_Text_TrainerTipsBagHasPockets:
 	.string "No Trainer can afford to be without\n"
 	.string "a Bag of their own.$"
 
+Route116_Text_YouFoundMe:
+	.string "Oh hey! Few people find their way\n"
+	.string "to this fountain.\p"
+	.string "Lots of birds come over to bath and\n"
+	.string "rest among the flowers.\p"
+	.string "Trainer, right? Whenever you see\n"
+	.string "flowers, you should search them.\p"
+	.string "I've heard their feathers are useful\n"
+	.string "for people like you.$"

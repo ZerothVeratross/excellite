@@ -158,6 +158,14 @@ Route116_EventScript_ItemPotion::
 	finditem ITEM_POTION
 	end
 
+Route116_EventScript_ItemTM::
+	finditem ITEM_TM01
+	end
+
+Route116_EventScript_ItemUltraBall::
+	finditem ITEM_ULTRA_BALL
+	end
+
 Route117_EventScript_ItemGreatBall::
 	finditem ITEM_GREAT_BALL
 	end

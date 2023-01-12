@@ -664,8 +664,8 @@
 #define FLAG_HIDDEN_ITEM_PETALBURG_WOODS_GREAT_BALL_2				(FLAG_HIDDEN_ITEMS_START + 0x78)
 #define FLAG_HIDDEN_ITEM_PETALBURG_WOODS_ARENA_PASSAGE_CALCIUM 		(FLAG_HIDDEN_ITEMS_START + 0x79)
 #define FLAG_HIDDEN_ITEM_PRETTY_PETAL_BASEMENT_LEAF_STONE 			(FLAG_HIDDEN_ITEMS_START + 0x7A)
-#define FLAG_UNUSED_0x26F  0x26F // Unused Flag
-#define FLAG_UNUSED_0x270  0x270 // Unused Flag
+#define FLAG_HIDDEN_ITEM_ROUTE_116_MUSCLE_FEATHER			 		(FLAG_HIDDEN_ITEMS_START + 0x7B)
+#define FLAG_HIDDEN_ITEM_ROUTE_116_GENIUS_FEATHER				 	(FLAG_HIDDEN_ITEMS_START + 0x7C)
 #define FLAG_UNUSED_0x271  0x271 // Unused Flag
 #define FLAG_UNUSED_0x272  0x272 // Unused Flag
 #define FLAG_UNUSED_0x273  0x273 // Unused Flag
@@ -1241,8 +1241,8 @@
 #define FLAG_ITEM_PRETTY_PETAL_BASEMENT_FRESH_WATER_3               0x4A4
 #define FLAG_ITEM_PRETTY_PETAL_BASEMENT_TM_GRASSY_TERRAIN           0x4A5
 #define FLAG_ITEM_PRETTY_PETAL_BASEMENT_DARK_SAMPLE                 0x4A6
-#define FLAG_UNUSED_0x4A7                                           0x4A7 // Unused Flag
-#define FLAG_UNUSED_0x4A8                                           0x4A8 // Unused Flag
+#define FLAG_ITEM_ROUTE_116_TM                                      0x4A7
+#define FLAG_ITEM_ULTRA_BALL                                        0x4A8
 #define FLAG_UNUSED_0x4A9                                           0x4A9 // Unused Flag
 #define FLAG_UNUSED_0x4AA                                           0x4AA // Unused Flag
 #define FLAG_UNUSED_0x4AB                                           0x4AB // Unused Flag
