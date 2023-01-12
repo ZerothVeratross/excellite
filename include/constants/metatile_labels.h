@@ -763,6 +763,9 @@
 #define METATILE_Slateport_Door             0x2DC
 #define METATILE_Slateport_Door_BattleTent  0x393
 
+// gTileset_Snow
+#define METATILE_Snow_RockWall_GrassBase  0x22E
+
 // gTileset_SootopolisGym
 #define METATILE_SootopolisGym_Ice_Broken   0x206
 #define METATILE_SootopolisGym_Ice_Cracked  0x20E
