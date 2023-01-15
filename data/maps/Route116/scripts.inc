@@ -352,7 +352,10 @@ Route116_EventScript_Johnson::
 	end
 
 Route116_EventScript_BirdWatcher::
-	msgbox Route116_Text_YouFoundMe, MSGBOX_AUTOCLOSE
+	lock
+	faceplayer
+	msgbox Route116_Text_YouFoundMe, MSGBOX_DEFAULT
+	release
 	end
 
 Route116_Text_ScoundrelMadeOffWithPeeko:

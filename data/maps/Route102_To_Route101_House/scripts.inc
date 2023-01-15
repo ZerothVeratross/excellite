@@ -13,6 +13,8 @@ Route114_LanettesHouse_EventScript_Leftovers_Man::
 	end
 
 Route102_To_Route101_House_EventScript_SmallTalk::
+	lock
+	faceplayer
 	msgbox Route102_To_Route101_House_Text_TheWeirdTree, MSGBOX_DEFAULT
 	release
 	end
@@ -30,4 +32,5 @@ Route102_To_Route101_House_Text_ForYourPokemon:
 Route102_To_Route101_House_Text_TheWeirdTree:
 	.string "Did you see that weird tree outside?\p"
 	.string "I've heard trees like that have\n"
-	.string "a lot of space among their leaves.$"
+	.string "a lot of space among their branches.\p"
+	.string "Enough for a person to live in them!$"

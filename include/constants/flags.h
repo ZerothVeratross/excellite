@@ -43,8 +43,8 @@
 
 // Additional script flags
 
-#define FLAG_ROUTE_102_LEFTOVERS_ACQUIRED    0x20
-#define FLAG_UNUSED_0x021    0x21 // Unused Flag
+#define FLAG_ROUTE_102_LEFTOVERS_ACQUIRED	0x20
+#define FLAG_ROUTE_116_KIRLIA_SPOKEN_TO		0x21
 #define FLAG_UNUSED_0x022    0x22 // Unused Flag
 #define FLAG_UNUSED_0x023    0x23 // Unused Flag
 #define FLAG_UNUSED_0x024    0x24 // Unused Flag
