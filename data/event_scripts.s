@@ -1121,3 +1121,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route123_BerryMasterGarden/scripts.inc"
 
 	.include "data/maps/Route116_RusturfHouse/scripts.inc"
+
+	.include "data/maps/RusturfTunnel2/scripts.inc"

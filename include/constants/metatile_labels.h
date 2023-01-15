@@ -459,6 +459,10 @@
 #define METATILE_Rustboro_Door_Gray  0x21F
 #define METATILE_Rustboro_Door_Tan   0x22F
 
+// gTileset_RusturfTunnel
+#define METATILE_RusturfTunnel_HiddenTunnel               0x270
+#define METATILE_RusturfTunnel_HiddenTunnelEntranceNorth  0x268
+
 // gTileset_SecretBaseShrub
 #define METATILE_SecretBaseShrub_EdgeBehindBush                 0x369
 #define METATILE_SecretBaseShrub_EdgeBehindTreeBase             0x381

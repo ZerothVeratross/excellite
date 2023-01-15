@@ -79,6 +79,7 @@
     "Route121",
     "Route122",
     "Route123",
+    "Route123_BerryMasterGarden",
     "Route124",
     "Route125",
     "Route126",
@@ -97,8 +98,7 @@
     "Underwater_Route129",
     "Underwater_Route105",
     "Underwater_Route125",
-    "Route111_NoMirageTower",
-    "Route123_BerryMasterGarden"
+    "Route111_NoMirageTower"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",
@@ -339,6 +339,7 @@
     "MeteorFalls_B1F_1R",
     "MeteorFalls_B1F_2R",
     "RusturfTunnel",
+    "RusturfTunnel2",
     "Underwater_SootopolisCity",
     "DesertRuins",
     "GraniteCave_1F",
@@ -358,6 +359,8 @@
     "MtPyre_4F",
     "MtPyre_5F",
     "MtPyre_6F",
+    "MtPyre_7F",
+    "MtPyre_Arena",
     "MtPyre_Exterior",
     "MtPyre_Summit",
     "PyreWoods_Northwest",
@@ -459,9 +462,7 @@
     "DesertCave_B1F",
     "DesertCave_B2F",
     "DesertCave_B3F",
-    "DesertCave_B4F",
-    "MtPyre_7F",
-    "MtPyre_Arena"
+    "DesertCave_B4F"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

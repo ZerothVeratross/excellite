@@ -4710,6 +4710,16 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/Route116_RusturfHouse/border.bin",
       "blockdata_filepath": "data/layouts/Route116_RusturfHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUSTURF_TUNNEL2",
+      "name": "RusturfTunnel2_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_RusturfTunnel",
+      "border_filepath": "data/layouts/RusturfTunnel2/border.bin",
+      "blockdata_filepath": "data/layouts/RusturfTunnel2/map.bin"
     }
   ]
 }

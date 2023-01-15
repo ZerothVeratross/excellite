@@ -30,6 +30,9 @@ Route104_EventScript_ItemPotion::
 	finditem ITEM_POTION
 	end
 
+Route104_West_EventScript_ItemSuperPotion::
+	finditem ITEM_SUPER_POTION
+
 PrettyPetal_Basement_EventScript_ItemFreshWater::
 	finditem ITEM_FRESH_WATER
 	end
@@ -388,6 +391,10 @@ RusturfTunnel_EventScript_ItemPokeBall::
 
 RusturfTunnel_EventScript_ItemMaxEther::
 	finditem ITEM_MAX_ETHER
+	end
+
+RusturfTunnel_EventScript_ItemEverstone::
+	finditem ITEM_EVERSTONE
 	end
 
 GraniteCave_1F_EventScript_ItemEscapeRope::
