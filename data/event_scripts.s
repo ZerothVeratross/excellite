@@ -1123,3 +1123,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route116_RusturfHouse/scripts.inc"
 
 	.include "data/maps/RusturfTunnel2/scripts.inc"
+
+	.include "data/maps/SuperSecretBase_BlueCave1/scripts.inc"
+
+	.include "data/maps/Route115_West/scripts.inc"

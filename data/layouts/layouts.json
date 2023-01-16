@@ -4720,6 +4720,26 @@
       "secondary_tileset": "gTileset_RusturfTunnel",
       "border_filepath": "data/layouts/RusturfTunnel2/border.bin",
       "blockdata_filepath": "data/layouts/RusturfTunnel2/map.bin"
+    },
+    {
+      "id": "LAYOUT_SUPER_SECRET_BASE_BLUE_CAVE1",
+      "name": "SuperSecretBase_BlueCave1_Layout",
+      "width": 25,
+      "height": 20,
+      "primary_tileset": "gTileset_SecretBase",
+      "secondary_tileset": "gTileset_SecretBaseBlueCave",
+      "border_filepath": "data/layouts/SuperSecretBase_BlueCave1/border.bin",
+      "blockdata_filepath": "data/layouts/SuperSecretBase_BlueCave1/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE115_WEST",
+      "name": "Route115_West_Layout",
+      "width": 40,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fallarbor",
+      "border_filepath": "data/layouts/Route115_West/border.bin",
+      "blockdata_filepath": "data/layouts/Route115_West/map.bin"
     }
   ]
 }
