@@ -141,6 +141,10 @@ Route115_EventScript_ItemPPUp::
 	finditem ITEM_PP_UP
 	end
 
+Route115_West_EventScript_ItemTM::
+	finditem ITEM_TM_13
+	end
+
 Route116_EventScript_ItemXSpecial::
 	finditem ITEM_X_SP_ATK
 	end

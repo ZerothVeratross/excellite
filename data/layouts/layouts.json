@@ -3898,7 +3898,7 @@
       "height": 15,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_BattleFrontier",
-      "border_filepath": "data/layouts/BattleFrontier_BattleTowerMultiPartnerRoom/border.bin",
+      "border_filepath": "data/layouts/BattleFrontier_BattleTo\u0000\u0000\u0000\u0000ultiPartnerRoom/border.bin",
       "blockdata_filepath": "data/layouts/BattleFrontier_BattleTowerMultiPartnerRoom/map.bin"
     },
     {
@@ -4735,11 +4735,21 @@
       "id": "LAYOUT_ROUTE115_WEST",
       "name": "Route115_West_Layout",
       "width": 40,
-      "height": 20,
+      "height": 21,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Fallarbor",
+      "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/Route115_West/border.bin",
       "blockdata_filepath": "data/layouts/Route115_West/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE115_WEST_HOUSE",
+      "name": "Route115_West_House_Layout",
+      "width": 10,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Route115_West_House/border.bin",
+      "blockdata_filepath": "data/layouts/Route115_West_House/map.bin"
     }
   ]
 }

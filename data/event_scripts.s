@@ -1127,3 +1127,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/SuperSecretBase_BlueCave1/scripts.inc"
 
 	.include "data/maps/Route115_West/scripts.inc"
+
+	.include "data/maps/Route115_West_House/scripts.inc"

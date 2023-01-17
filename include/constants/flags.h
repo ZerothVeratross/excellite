@@ -1246,7 +1246,7 @@
 #define FLAG_ITEM_RUSTURF_TUNNEL_EVERSTONE                          0x4A9
 #define FLAG_ITEM_ROUTE_104_WEST_POTION                             0x4AA
 #define FLAG_ITEM_ROUTE_104_WEST_SUPER_POTION                       0x4AB
-#define FLAG_UNUSED_0x4AC                                           0x4AC // Unused Flag
+#define FLAG_ITEM_ROUTE_115_WEST_TM                                 0x4AC
 #define FLAG_UNUSED_0x4AD                                           0x4AD // Unused Flag
 #define FLAG_UNUSED_0x4AE                                           0x4AE // Unused Flag
 #define FLAG_UNUSED_0x4AF                                           0x4AF // Unused Flag
