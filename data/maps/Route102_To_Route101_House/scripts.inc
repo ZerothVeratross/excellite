@@ -1,7 +1,7 @@
 Route102_To_Route101_House_MapScripts::
 	.byte 0
 
-Route114_LanettesHouse_EventScript_Leftovers_Man::
+Route114_EventScript_Leftovers_Man::
 	lock
 	faceplayer
 	goto_if_set FLAG_ROUTE_102_LEFTOVERS_ACQUIRED, Route102_To_Route101_House_EventScript_SmallTalk

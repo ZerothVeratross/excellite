@@ -25,7 +25,7 @@
     },
     {
       "map": "MAP_ROUTE115_WEST",
-      "offset": 0,
+      "offset": -1,
       "direction": "left"
     }
   ],
