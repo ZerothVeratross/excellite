@@ -4750,6 +4750,16 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/Route115_West_House/border.bin",
       "blockdata_filepath": "data/layouts/Route115_West_House/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE106_SOUTH",
+      "name": "Route106_South_Layout",
+      "width": 60,
+      "height": 18,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Dewford",
+      "border_filepath": "data/layouts/Route106_South/border.bin",
+      "blockdata_filepath": "data/layouts/Route106_South/map.bin"
     }
   ]
 }

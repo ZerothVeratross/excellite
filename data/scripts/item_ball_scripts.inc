@@ -142,7 +142,7 @@ Route115_EventScript_ItemPPUp::
 	end
 
 Route115_West_EventScript_ItemTM::
-	finditem ITEM_TM_13
+	finditem ITEM_TM13
 	end
 
 Route116_EventScript_ItemXSpecial::

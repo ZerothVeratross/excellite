@@ -32,5 +32,5 @@ Route115_West_House_Text_BetterForATrainer:
 	.string "than me.$"
 
 Route115_West_House_Text_AzumarillHelps:
-	.string "This may seem lonely, but I can always\n"
-	.string "count on Azumarill for company.$"
+	.string "This place may seem lonely, but I can\n"
+	.string "always count on Azumarill for company.$"

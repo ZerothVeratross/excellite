@@ -11,4 +11,4 @@ Route104_West_Text_Sign:
 	.string "Secret passages are often hidden, but\n"
 	.string "there's always an indication.\p"
 	.string "Like an item lying a few steps behind\n"
-	.string "a wall!"
+	.string "a seemingly impassable tree wall."

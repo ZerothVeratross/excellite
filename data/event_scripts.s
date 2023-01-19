@@ -1129,3 +1129,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route115_West/scripts.inc"
 
 	.include "data/maps/Route115_West_House/scripts.inc"
+
+	.include "data/maps/Route106_South/scripts.inc"
