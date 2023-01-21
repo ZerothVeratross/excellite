@@ -4760,6 +4760,16 @@
       "secondary_tileset": "gTileset_Dewford",
       "border_filepath": "data/layouts/Route106_South/border.bin",
       "blockdata_filepath": "data/layouts/Route106_South/map.bin"
+    },
+    {
+      "id": "LAYOUT_BOREAN_ISLAND_SOUTH",
+      "name": "BoreanIsland_South_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Snow",
+      "border_filepath": "data/layouts/BoreanIsland_South/border.bin",
+      "blockdata_filepath": "data/layouts/BoreanIsland_South/map.bin"
     }
   ]
 }

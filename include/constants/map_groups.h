@@ -631,6 +631,9 @@
 // gMapGroup_IndoorRoute124
 #define MAP_ROUTE124_DIVING_TREASURE_HUNTERS_HOUSE (0 | (35 << 8))
 
-#define MAP_GROUPS_COUNT 36
+// gMapGroup_NewIslands
+#define MAP_BOREAN_ISLAND_SOUTH (0 | (36 << 8))
+
+#define MAP_GROUPS_COUNT 37
 
 #endif // GUARD_CONSTANTS_MAP_GROUPS_H

@@ -69,20 +69,20 @@ Unobtainable Pokemon:
 070 Weepinbell
 071 Victreebel
 -
-077 Ponyta
+077 Ponyta (PyreWoods)
 078 Rapidash
 -
 079 Slowpoke
 080 Slowbro
 199 Slowking
 -
-083 Farfetch'd
+083 Farfetch'd (PyreWoods)
 -
 086 Seel
-087 Dewgong
+087 Dewgong (Borean Island)
 -
-090 Shellder
-091 Cloyster
+090 Shellder (Borean Island)
+091 Cloyster (Borean Island)
 -
 092 Gastly
 093 Haunter
@@ -92,10 +92,10 @@ Unobtainable Pokemon:
 208 Steelix
 -
 096 Drowzee
-097 Hypno
+097 Hypno (PyreWoods)
 -
-098 Krabby
-099 Kingler
+098 Krabby (PyreWoods)
+099 Kingler (PyreWoods)
 -
 102 Exeggcute
 103 Exeggutor
@@ -109,40 +109,40 @@ Unobtainable Pokemon:
 237 Hitmontop
 -
 108 Lickitung
-463 Lickilicky (Gen IV)
+463 Lickilicky
 -
-440 Happiny (Gen IV)
+440 Happiny
 113 Chansey
 242 Blissey
 -
-114 Tangela
-465 Tangrowth (Gen IV)
+114 Tangela (PyreWoods)
+465 Tangrowth
 -
 115 Kangaskhan
 -
-439 Mime Jr. (Gen IV)
+439 Mime Jr.
 122 Mr. Mime
 -
 123 Scyther
 212 Scizor
-900 Kleavor (Gen VIII)
+900 Kleavor
 -
 238 Smoochum
-124 Jynx
+124 Jynx (Borean Island)
 -
 239 Elekid
 125 Electabuzz
-466 Electivire (Gen IV)
+466 Electivire
 -
 240 Magby
 126 Magmar
-467 Magmortar (Gen IV)
+467 Magmortar
 -
 127 Pinsir
 -
 128 Tauros
 -
-131 Lapras
+131 Lapras (Borean Island)
 -
 133 Eevee
 134 Vaporeon
@@ -150,13 +150,13 @@ Unobtainable Pokemon:
 136 Flareon
 196 Espeon
 197 Umbreon
-470 Leafeon (Gen IV)
-471 Glaceon (Gen IV)
-700 Sylveon (Gen VI)
+470 Leafeon
+471 Glaceon
+700 Sylveon
 -
 137 Porygon
 233 Porygon2
-474 Porygon-Z (Gen IV)
+474 Porygon-Z
 -
 138 Omanyte
 139 Omastar
@@ -166,7 +166,7 @@ Unobtainable Pokemon:
 -
 142 Aerodactyl
 -
-446 Munchlax (Gen IV)
+446 Munchlax
 143 Snorlax
 -
 144 Articuno
@@ -182,42 +182,42 @@ Unobtainable Pokemon:
 150 Mewtwo
 -
 161 Sentret
-162 Furret
+162 Furret (PyreWoods)
 -
 175 Togepi
 176 Togetic
-468 Togekiss (Gen IV)
+468 Togekiss
 -
 187 Hoppip
 188 Skiploom
 189 Jumpluff
 -
 193 Yanma
-469 Yanmega (Gen IV)
+469 Yanmega
 -
-198 Murkrow
-430 Honchkrow (Gen IV)
+198 Murkrow (PyreWoods)
+430 Honchkrow
 -
 200 Misdreavus
-429 Mismagius (Gen IV)
+429 Mismagius
 -
 201 Unown
 -
 206 Dunsparce
 -
-211 Qwilfish
+211 Qwilfish (PyreWoods)
 -
-215 Sneasel
-461 Weavile (Gen IV)
+215 Sneasel (Borean Island)
+461 Weavile
 -
 220 Swinub
-221 Piloswine
-473 Mamoswine (Gen IV)
+221 Piloswine (Borean Island)
+473 Mamoswine
 -
-225 Delibird
+225 Delibird (Borean Island)
 -
-458 Mantyke (Gen IV)
-226 Mantine
+458 Mantyke
+226 Mantine (Borean Island)
 -
 243 Raikou
 -
@@ -234,11 +234,11 @@ Unobtainable Pokemon:
 307 Meditite
 308 Medicham
 -
-406 Budew (Gen IV)
+406 Budew
 315 Roselia
-407 Roserade (Gen IV)
+407 Roserade
 -
-335 Zangoose
+335 Zangoose (PyreWoods)
 -
 337 Lunatone
 -
@@ -251,28 +251,79 @@ Unobtainable Pokemon:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Special Cases:
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+.Safari Zone:
 172 Pichu
-025 Pikachu (Safari Zone)
+025 Pikachu
 026 Raichu
 -
-052 Meowth (Trade at Battle Frontier)
-053 Persian
--
-054 Psyduck (Safari Zone)
+054 Psyduck
 055 Golduck
 -
-111 Rhyhorn (Safari Zone)
+111 Rhyhorn
 112 Rhydon
-464 Rhyperior (Gen IV)
+464 Rhyperior
 -
-116 Horsea (Super Rod)
-117 Seadra
-230 Kingdra
+163 Hoothoot
+164 Noctowl
 -
-120 Staryu (Super Rod)
-121 Starmie
+165 Ledyba
+166 Ledian (PyreWoods)
 -
+167 Spinarak
+168 Ariados
+-
+177 Natu
+178 Xatu
+-
+179 Mareep
+180 Flaaffy
+181 Ampharos
+-
+190 Aipom
+424 Ambipom
+-
+191 Sunkern
+192 Sunflora
+-
+194 Wooper
+195 Quagsire
+-
+203 Girafarig
+-
+204 Pineco
+205 Forretress
+-
+207 Gligar
+472 Gliscor
+-
+209 Snubbull
+210 Granbull
+-
+213 Shuckle
+-
+214 Heracross
+-
+216 Teddiursa
+217 Ursaring (Borean Island)
+901 Ursaluna
+-
+223 Remoraid
+224 Octillery
+-
+228 Houndour
+229 Houndoom
+-
+231 Phanpy
+232 Donphan
+-
+234 Stantler (Borean Island)
+899 Wyrdeer
+-
+241 Miltank
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+.Complete regional Pokedex:
+
 152 Chikorita (Complete regional Pokedex)
 153 Bayleef
 154 Meganium
@@ -284,72 +335,9 @@ Special Cases:
 158 Totodile (Complete regional Pokedex)
 159 Croconaw
 160 Feraligatr
--
-163 Hoothoot (Safari Zone)
-164 Noctowl
--
-165 Ledyba (Safari Zone)
-166 Ledian
--
-167 Spinarak (Safari Zone)
-168 Ariados
--
-177 Natu (Safari Zone)
-178 Xatu
--
-179 Mareep (Safari Zone)
-180 Flaaffy
-181 Ampharos
--
-438 Bonsly (Gen IV)
-185 Sudowoodo (Only one at Battle Frontier)
--
-190 Aipom (Safari Zone)
-424 Ambipom (Gen IV)
--
-191 Sunkern (Safari Zone)
-192 Sunflora
--
-194 Wooper (Safari Zone)
-195 Quagsire
--
-203 Girafarig (Safari Zone)
--
-204 Pineco (Safari Zone)
-205 Forretress
--
-207 Gligar (Safari Zone)
-472 Gliscor (Gen IV)
--
-209 Snubbull (Safari Zone)
-210 Granbull
--
-213 Shuckle (Safari Zone)
--
-214 Heracross (Safari Zone)
--
-216 Teddiursa (Safari Zone)
-217 Ursaring
-901 Ursaluna (Gen IV)
--
-222 Corsola (Super Rod)
--
-223 Remoraid (Safari Zone)
-224 Octillery
--
-228 Houndour (Safari Zone)
-229 Houndoom
--
-231 Phanpy (Safari Zone)
-232 Donphan
--
-234 Stantler (Safari Zone)
-899 Wyrdeer (Gen VIII)
--
-235 Smeargle (Battle Frontier)
--
-241 Miltank (Safari Zone)
--
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+.Starters:
+
 252 Treecko (Starter)
 253 Grovyle
 254 Sceptile
@@ -361,6 +349,25 @@ Special Cases:
 258 Mudkip (Starter)
 259 Marshtomp
 260 Swampert
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+.Others:
+
+052 Meowth (Trade at Battle Frontier)
+053 Persian
+-
+116 Horsea (Super Rod)
+117 Seadra
+230 Kingdra
+-
+120 Staryu (Super Rod)
+121 Starmie
+-
+438 Bonsly
+185 Sudowoodo (Only one at Battle Frontier)
+-
+222 Corsola (Super Rod)
+-
+235 Smeargle (Battle Frontier)
 -
 273 Seedot (1%)
 274 Nuzleaf
@@ -369,7 +376,7 @@ Special Cases:
 280 Ralts (4%)
 281 Kirlia
 282 Gardevoir
-475 Gallade (Gen IV)
+475 Gallade
 -
 283 Surskit (Swarm)
 284 Masquerain
@@ -388,16 +395,7 @@ Special Cases:
 349 Feebas (!"#$%#$"#$)
 350 Milotic
 -
-355 Duskull (Rarer than Shuppet)
-356 Dusclops
-477 Dusknoir (Gen IV)
--
 357 Tropius (9%)
--
-433 Chingling (Gen IV)
-358 Chimecho (2%)
--
-359 Absol (8%)
 -
 369 Relicanth (5%)
 -
@@ -408,3 +406,153 @@ Special Cases:
 374 Beldum (Too late)
 375 Metang
 376 Metagross
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Post Gen IV:
+
+037 Vulpíx (Alolan Form) (Borean Island)
+038 Ninetales (Alolan Form)
+-
+459 Snover (Borean Island)
+460 Abomasnow
+-
+550 Basculin (White-Striped Form) (Borean Island)
+902 Basculegion (Borean Island)
+-
+582 Vanillite (Borean Island)
+583 Vanillish
+584 Vanilluxe
+-
+592 Frillish (Borean Island)
+593 Jellycent
+-
+613 Cubchoo (Borean Island)
+614 Beartic
+-
+615 Cryogonal (Borean Island)
+-
+698 Amaura (Borean Island)
+699 Aurorus
+-
+712 Bergmite (Borean Island)
+713 Avalugg
+-
+872 Snom (Borean Island)
+873 Frosmoth
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PyreWoods:
+
+___Northwest:
+
+.Grass:
+
+077 Ponyta
+114 Tangela
+162 Furret
+166 Ledian
+198 Murkrow
+
+___Southwest:
+
+.Grass:
+
+083 Farfetch'd
+359 Absol
+
+___Southeast:
+
+.Grass:
+
+.Surfing:
+
+211 Qwilfish
+
+.Fishing:
+-old
+098 Krabby
+-goood
+098 Krabby
+-super
+099 Kingler
+
+___Northeast:
+
+.Grass:
+
+097 Hypno
+335 Zangoose
+
+___TunnelB1F:
+
+.Cave:
+
+___Gym:
+
+.Cave:
+
+.Event:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Borean Island:
+
+___South:
+
+.Grass:
+
+037 Vulpix (Alolan Form)
+217 Ursaring
+234 Stantler
+358 Chimecho
+459 Snover
+
+.Surfing:
+
+087 Dewgong
+131 Lapras
+226 Mantine
+582 Vanillite
+592 Frillish
+
+.Fishing:
+-old
+090 Shellder
+550 Basculin (White-Striped Form)
+-good
+091 Cloyster
+550 Basculin (White-Striped Form)
+-super
+902 Basculegion
+
+___North:
+
+.Deep Snow:
+
+221 Piloswine
+225 Delibird
+355 Duskull
+613 Cubchoo
+872 Snom
+
+___Cave Zone:
+
+.Cave:
+
+124 Jynx
+215 Sneasel
+337 Lunatone
+615 Cryogonal
+698 Amaura
+
+.Rock Smash:
+
+712 Bergmite

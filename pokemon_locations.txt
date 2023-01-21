@@ -1,6 +1,0 @@
-Route104_West:
-
-Tall grass: Marill, Wingull, Krabby, Ralts
-Old rod: Magikarp
-Good rod: Tentacool, Horsea, Wailmer
-Super rod: Wailmer, Carvanha, Dratini, Dragonair
