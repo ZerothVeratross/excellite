@@ -2,10 +2,10 @@
   "id": "MAP_BOREAN_ISLAND_SOUTH",
   "name": "BoreanIsland_South",
   "layout": "LAYOUT_BOREAN_ISLAND_SOUTH",
-  "music": "MUS_ABANDONED_SHIP",
+  "music": "MUS_ABNORMAL_WEATHER",
   "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
   "requires_flash": false,
-  "weather": "WEATHER_NONE",
+  "weather": "WEATHER_SNOW",
   "map_type": "MAP_TYPE_ROUTE",
   "allow_cycling": true,
   "allow_escaping": false,
@@ -17,7 +17,34 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 29,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 9,
+      "y": 39,
+      "elevation": 0,
+      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 46,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 21,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 

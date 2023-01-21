@@ -439,6 +439,9 @@ Post Gen IV:
 698 Amaura (Borean Island)
 699 Aurorus
 -
+708 Phantump (PyreWoods)
+709 Trevenant
+-
 712 Bergmite (Borean Island)
 713 Avalugg
 -
@@ -457,10 +460,10 @@ ___Northwest:
 .Grass:
 
 077 Ponyta
-114 Tangela
 162 Furret
 166 Ledian
 198 Murkrow
+708 Phantump
 
 ___Southwest:
 
@@ -468,6 +471,7 @@ ___Southwest:
 
 083 Farfetch'd
 359 Absol
+114 Tangela
 
 ___Southeast:
 
@@ -509,29 +513,28 @@ ___South:
 
 .Grass:
 
-037 Vulpix (Alolan Form)
-217 Ursaring
-234 Stantler
-358 Chimecho
-459 Snover
+037 Vulpix (Alolan Form) 20%
+217 Ursaring 20%
+234 Stantler 20%
+358 Chimecho 20%
+459 Snover 20%
 
 .Surfing:
 
-087 Dewgong
-131 Lapras
-226 Mantine
-582 Vanillite
-592 Frillish
+087 Dewgong 60%
+131 Lapras 5%
+582 Vanillite 30%
+592 Frillish 5%
 
 .Fishing:
 -old
-090 Shellder
-550 Basculin (White-Striped Form)
+458 Mantyke 70%
+550 Basculin (White-Striped Form) 30%
 -good
-091 Cloyster
-550 Basculin (White-Striped Form)
+226 Mantine 60%
+550 Basculin (White-Striped Form) 40%
 -super
-902 Basculegion
+902 Basculegion 100%
 
 ___North:
 

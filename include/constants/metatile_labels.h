@@ -769,6 +769,9 @@
 #define METATILE_Slateport_Door_BattleTent  0x393
 
 // gTileset_Snow
+#define METATILE_Snow_CaveEntrance_Bottom  0x24E
+#define METATILE_Snow_CaveEntrance_Top     0x246
+#define METATILE_Snow_Door                 0x2D9
 #define METATILE_Snow_TallGrass_TreeLeft   0x296
 #define METATILE_Snow_TallGrass_TreeRight  0x297
 
