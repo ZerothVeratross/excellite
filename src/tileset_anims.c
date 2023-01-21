@@ -83,6 +83,7 @@ static void QueueAnimTiles_Forest_RedBlossom(u16);
 static void QueueAnimTiles_Forest_BlueRose(u16);
 static void QueueAnimTiles_Forest_Rose(u16);
 static void QueueAnimTiles_Forest_Flower(u16);
+static void QueueAnimTiles_Dewford_Weed(u16);
 
 const u16 gTilesetAnims_General_Flower_Frame1[] = INCBIN_U16("data/tilesets/primary/general/anim/flower/1.4bpp");
 const u16 gTilesetAnims_General_Flower_Frame0[] = INCBIN_U16("data/tilesets/primary/general/anim/flower/0.4bpp");
@@ -170,6 +171,18 @@ const u16 *const gTilesetAnims_Forest_Rose[] = {
     gTilesetAnims_Forest_Rose_Frame1,
     gTilesetAnims_Forest_Rose_Frame2,
     gTilesetAnims_Forest_Rose_Frame3
+};
+
+const u16 gTilesetAnims_Dewford_Weed_Frame0[] = INCBIN_U16("data/tilesets/secondary/dewford/anim/weed/0.4bpp");
+const u16 gTilesetAnims_Dewford_Weed_Frame1[] = INCBIN_U16("data/tilesets/secondary/dewford/anim/weed/1.4bpp");
+const u16 gTilesetAnims_Dewford_Weed_Frame2[] = INCBIN_U16("data/tilesets/secondary/dewford/anim/weed/2.4bpp");
+const u16 gTilesetAnims_Dewford_Weed_Frame3[] = INCBIN_U16("data/tilesets/secondary/dewford/anim/weed/3.4bpp");
+
+const u16 *const gTilesetAnims_Dewford_Weed[] = {
+    gTilesetAnims_Dewford_Weed_Frame0,
+    gTilesetAnims_Dewford_Weed_Frame1,
+    gTilesetAnims_Dewford_Weed_Frame2,
+    gTilesetAnims_Dewford_Weed_Frame3
 };
 
 // End custom gTilesetAnims
@@ -841,6 +854,12 @@ static void QueueAnimTiles_Forest_Rose(u16 timer)
     AppendTilesetAnimToBuffer(gTilesetAnims_Forest_Rose[i], (u16 *)(BG_VRAM + TILE_OFFSET_4BPP(730)), 4 * TILE_SIZE_4BPP);
 }
 
+static void QueueAnimTiles_Dewford_Weed(u16 timer)
+{
+	u16 i = timer % ARRAY_COUNT(gTilesetAnims_Dewford_Weed);
+	AppendTilesetAnimToBuffer(gTilesetAnims_Dewford_Weed[i], (u16 *)(BG_VRAM + TILE_OFFSET_4BPP(742)), 4 * TILE_SIZE_4BPP);
+}
+
 // End custom QueueAnimTiles
 
 static void QueueAnimTiles_General_Flower(u16 timer)
@@ -1055,6 +1074,8 @@ static void TilesetAnim_Dewford(u16 timer)
 {
     if (timer % 8 == 0)
         QueueAnimTiles_Dewford_Flag(timer / 8);
+	if (timer %8 == 0)
+		QueueAnimTiles_Dewford_Weed(timer / 8);
 }
 
 static void TilesetAnim_Slateport(u16 timer)

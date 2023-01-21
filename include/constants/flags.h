@@ -666,8 +666,8 @@
 #define FLAG_HIDDEN_ITEM_PRETTY_PETAL_BASEMENT_LEAF_STONE 			(FLAG_HIDDEN_ITEMS_START + 0x7A)
 #define FLAG_HIDDEN_ITEM_ROUTE_116_MUSCLE_FEATHER			 		(FLAG_HIDDEN_ITEMS_START + 0x7B)
 #define FLAG_HIDDEN_ITEM_ROUTE_116_GENIUS_FEATHER				 	(FLAG_HIDDEN_ITEMS_START + 0x7C)
-#define FLAG_UNUSED_0x271  0x271 // Unused Flag
-#define FLAG_UNUSED_0x272  0x272 // Unused Flag
+#define FLAG_HIDDEN_ITEM_ROUTE_106_SOUTH_UTILITY_UMBRELLA		 	(FLAG_HIDDEN_ITEMS_START + 0x7D)
+#define FLAG_HIDDEN_ITEM_ROUTE_106_SOUTH_STAR_PIECE				 	(FLAG_HIDDEN_ITEMS_START + 0x7E)
 #define FLAG_UNUSED_0x273  0x273 // Unused Flag
 #define FLAG_UNUSED_0x274  0x274 // Unused Flag
 #define FLAG_UNUSED_0x275  0x275 // Unused Flag
@@ -1247,7 +1247,7 @@
 #define FLAG_ITEM_ROUTE_104_WEST_POTION                             0x4AA
 #define FLAG_ITEM_ROUTE_104_WEST_SUPER_POTION                       0x4AB
 #define FLAG_ITEM_ROUTE_115_WEST_TM                                 0x4AC
-#define FLAG_UNUSED_0x4AD                                           0x4AD // Unused Flag
+#define FLAG_ITEM_ROUTE_106_SOUTH_TM                                0x4AD
 #define FLAG_UNUSED_0x4AE                                           0x4AE // Unused Flag
 #define FLAG_UNUSED_0x4AF                                           0x4AF // Unused Flag
 #define FLAG_UNUSED_0x4B0                                           0x4B0 // Unused Flag

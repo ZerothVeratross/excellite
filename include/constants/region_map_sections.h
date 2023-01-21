@@ -217,6 +217,7 @@
 #define MAPSEC_DESERT_CAVE			        0xD5
 #define MAPSEC_PYREWOODS			        0xD6
 #define MAPSEC_ROUTE_102_TO_101		        0xD7
+#define MAPSEC_ABANDONED_RESORT				0xD8
 #define MAPSEC_NONE                         0xFC
 
 #define METLOC_SPECIAL_EGG                  0xFD
