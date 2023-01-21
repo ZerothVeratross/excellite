@@ -3898,7 +3898,7 @@
       "height": 15,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_BattleFrontier",
-      "border_filepath": "data/layouts/BattleFrontier_BattleTo\u0000\u0000\u0000\u0000ultiPartnerRoom/border.bin",
+      "border_filepath": "data/layouts/BattleFrontier_BattleTowerMultiPartnerRoom/border.bin",
       "blockdata_filepath": "data/layouts/BattleFrontier_BattleTowerMultiPartnerRoom/map.bin"
     },
     {
@@ -4761,6 +4761,15 @@
       "border_filepath": "data/layouts/Route106_South/border.bin",
       "blockdata_filepath": "data/layouts/Route106_South/map.bin"
     },
+      "id": "LAYOUT_ABANDONED_RESORT",
+      "name": "AbandonedResort_Layout",
+      "width": 50,
+      "height": 15,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_InsideShip",
+      "border_filepath": "data/layouts/AbandonedResort/border.bin",
+      "blockdata_filepath": "data/layouts/AbandonedResort/map.bin"
+    },
     {
       "id": "LAYOUT_BOREAN_ISLAND_SOUTH",
       "name": "BoreanIsland_South_Layout",
@@ -4770,6 +4779,6 @@
       "secondary_tileset": "gTileset_Snow",
       "border_filepath": "data/layouts/BoreanIsland_South/border.bin",
       "blockdata_filepath": "data/layouts/BoreanIsland_South/map.bin"
-    }
+	}
   ]
 }

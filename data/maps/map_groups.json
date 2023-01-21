@@ -37,7 +37,8 @@
     "gMapGroup_IndoorRoute123",
     "gMapGroup_IndoorRoute119",
     "gMapGroup_IndoorRoute124",
-    "gMapGroup_NewIslands"
+    "gMapGroup_NewIslands",
+    "gMapGroup_NewDungeons"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -64,6 +65,7 @@
     "Route104_West",
     "Route105",
     "Route106",
+    "Route106_South",
     "Route107",
     "Route108",
     "Route109",
@@ -101,8 +103,7 @@
     "Underwater_Route129",
     "Underwater_Route105",
     "Underwater_Route125",
-    "Route111_NoMirageTower",
-    "Route106_South"
+    "Route111_NoMirageTower"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",
@@ -346,7 +347,6 @@
     "MeteorFalls_B1F_1R",
     "MeteorFalls_B1F_2R",
     "RusturfTunnel",
-    "RusturfTunnel2",
     "Underwater_SootopolisCity",
     "DesertRuins",
     "GraniteCave_1F",
@@ -354,9 +354,6 @@
     "GraniteCave_B2F",
     "GraniteCave_StevensRoom",
     "PetalburgWoods",
-    "PetalburgWoods_Passage",
-    "PetalburgWoods_ArenaPassage",
-    "PetalburgWoods_Arena",
     "MtChimney",
     "JaggedPass",
     "FieryPath",
@@ -366,17 +363,8 @@
     "MtPyre_4F",
     "MtPyre_5F",
     "MtPyre_6F",
-    "MtPyre_7F",
-    "MtPyre_Arena",
     "MtPyre_Exterior",
     "MtPyre_Summit",
-    "PyreWoods_Northwest",
-    "PyreWoods_Southwest",
-    "PyreWoods_Southeast",
-    "PyreWoods_Northeast",
-    "PyreWoods_Tunnel_1F",
-    "PyreWoods_Tunnel_B1F",
-    "PyreWoods_Gym",
     "AquaHideout_1F",
     "AquaHideout_B1F",
     "AquaHideout_B2F",
@@ -397,7 +385,6 @@
     "CaveOfOrigin_UnusedRubySapphireMap2",
     "CaveOfOrigin_UnusedRubySapphireMap3",
     "CaveOfOrigin_B1F",
-    "CaveOfOrigin_B2F",
     "VictoryRoad_1F",
     "VictoryRoad_B1F",
     "VictoryRoad_B2F",
@@ -429,8 +416,6 @@
     "SealedChamber_OuterRoom",
     "SealedChamber_InnerRoom",
     "ScorchedSlab",
-    "ScorchedSlab_Passage",
-    "ScorchedSlab_Arena",
     "AquaHideout_UnusedRubyMap1",
     "AquaHideout_UnusedRubyMap2",
     "AquaHideout_UnusedRubyMap3",
@@ -464,12 +449,7 @@
     "TerraCave_Entrance",
     "TerraCave_End",
     "AlteringCave",
-    "MeteorFalls_StevensCave",
-    "DesertCave",
-    "DesertCave_B1F",
-    "DesertCave_B2F",
-    "DesertCave_B3F",
-    "DesertCave_B4F"
+    "MeteorFalls_StevensCave"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",
@@ -667,5 +647,29 @@
   ],
   "gMapGroup_NewIslands": [
     "BoreanIsland_South"
+  ],
+  "gMapGroup_NewDungeons": [
+    "RusturfTunnel2",
+    "PetalburgWoods_Passage",
+    "PetalburgWoods_ArenaPassage",
+    "PetalburgWoods_Arena",
+    "AbandonedResort",
+    "DesertCave",
+    "DesertCave_B1F",
+    "DesertCave_B2F",
+    "DesertCave_B3F",
+    "DesertCave_B4F",
+    "ScorchedSlab_Passage",
+    "ScorchedSlab_Arena",
+    "MtPyre_7F",
+    "MtPyre_Arena",
+    "PyreWoods_Northwest",
+    "PyreWoods_Southwest",
+    "PyreWoods_Southeast",
+    "PyreWoods_Northeast",
+    "PyreWoods_Tunnel_1F",
+    "PyreWoods_Tunnel_B1F",
+    "PyreWoods_Gym",
+    "CaveOfOrigin_B2F"
   ]
 }

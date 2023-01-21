@@ -1734,6 +1734,14 @@
       "y": 10,
       "width": 1,
       "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ABANDONED_RESORT",
+      "name": "ABANDONED RESORT",
+      "x": 1,
+      "y": 14,
+      "width": 1,
+      "height": 1
     }
   ]
 }

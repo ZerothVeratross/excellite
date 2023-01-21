@@ -48,6 +48,9 @@ Route105_EventScript_ItemIron::
 Route106_EventScript_ItemProtein::
 	finditem ITEM_PROTEIN
 	end
+Route106_EventScript_ItemTM::
+	finditem ITEM_TM50
+	end
 
 Route108_EventScript_ItemStarPiece::
 	finditem ITEM_STAR_PIECE
