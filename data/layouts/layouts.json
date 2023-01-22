@@ -4790,6 +4790,16 @@
       "secondary_tileset": "gTileset_InsideShip",
       "border_filepath": "data/layouts/AbandonedResort1F_SouthwestRooms/border.bin",
       "blockdata_filepath": "data/layouts/AbandonedResort1F_SouthwestRooms/map.bin"
+	},
+	{
+      "id": "LAYOUT_BOREAN_ISLAND_NORTH",
+      "name": "BoreanIsland_North_Layout",
+      "width": 50,
+      "height": 31,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Snow",
+      "border_filepath": "data/layouts/BoreanIsland_North/border.bin",
+      "blockdata_filepath": "data/layouts/BoreanIsland_North/map.bin"
     }
   ]
 }
