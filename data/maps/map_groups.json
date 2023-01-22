@@ -646,7 +646,8 @@
     "Route124_DivingTreasureHuntersHouse"
   ],
   "gMapGroup_NewIslands": [
-    "BoreanIsland_South"
+    "BoreanIsland_South",
+    "BoreanIsland_North"
   ],
   "gMapGroup_NewDungeons": [
     "RusturfTunnel2",
