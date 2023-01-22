@@ -1135,3 +1135,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/AbandonedResort/scripts.inc"
 
 	.include "data/maps/BoreanIsland_South/scripts.inc"
+
+	.include "data/maps/AbandonedResort1F_SouthwestRooms/scripts.inc"
