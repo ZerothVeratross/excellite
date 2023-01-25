@@ -613,6 +613,7 @@
 // gMapGroup_NewIslands
 #define MAP_BOREAN_ISLAND_SOUTH (0 | (36 << 8))
 #define MAP_BOREAN_ISLAND_NORTH (1 | (36 << 8))
+#define MAP_BOREAN_ISLAND_CAVE  (2 | (36 << 8))
 
 // gMapGroup_NewDungeons
 #define MAP_RUSTURF_TUNNEL2                    (0 | (37 << 8))

@@ -540,11 +540,11 @@ ___North:
 
 .Deep Snow:
 
-221 Piloswine
-225 Delibird
-355 Duskull
-613 Cubchoo
-872 Snom
+221 Piloswine 20%
+225 Delibird 20%
+355 Duskull 20%
+613 Cubchoo 20%
+872 Snom 20%
 
 ___Cave Zone:
 
