@@ -27,29 +27,29 @@
       "x": 29,
       "y": 23,
       "elevation": 0,
-      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_BOREAN_ISLAND_INTERIORS",
+      "dest_warp_id": "1"
     },
     {
       "x": 9,
       "y": 39,
       "elevation": 0,
-      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
+      "dest_map": "MAP_BOREAN_ISLAND_CAVE",
       "dest_warp_id": "0"
     },
     {
       "x": 46,
       "y": 9,
       "elevation": 0,
-      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_BOREAN_ISLAND_CAVE",
+      "dest_warp_id": "1"
     },
     {
       "x": 21,
       "y": 2,
       "elevation": 0,
-      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_BOREAN_ISLAND_CAVE",
+      "dest_warp_id": "2"
     }
   ],
   "coord_events": [

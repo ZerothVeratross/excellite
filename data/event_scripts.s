@@ -1141,3 +1141,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/BoreanIsland_North/scripts.inc"
 
 	.include "data/maps/BoreanIsland_Cave/scripts.inc"
+
+	.include "data/maps/BoreanIsland_Interiors/scripts.inc"

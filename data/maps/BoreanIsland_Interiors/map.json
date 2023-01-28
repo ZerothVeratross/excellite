@@ -1,0 +1,70 @@
+{
+  "id": "MAP_BOREAN_ISLAND_INTERIORS",
+  "name": "BoreanIsland_Interiors",
+  "layout": "LAYOUT_BOREAN_ISLAND_INTERIORS",
+  "music": "MUS_RUSTBORO",
+  "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_INDOOR",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": false,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": 0,
+  "object_events": [
+
+  ],
+  "warp_events": [
+    {
+      "x": 3,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 4,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_BOREAN_ISLAND_SOUTH",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "elevation": 0,
+      "dest_map": "MAP_BOREAN_ISLAND_NORTH",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "elevation": 0,
+      "dest_map": "MAP_BOREAN_ISLAND_NORTH",
+      "dest_warp_id": "1"
+    }
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+    {
+      "type": "sign",
+      "x": 1,
+      "y": 5,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "Route119_WeatherInstitute_1F_EventScript_Bed"
+    },
+    {
+      "type": "sign",
+      "x": 1,
+      "y": 20,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "Route119_WeatherInstitute_1F_EventScript_Bed"
+    }
+  ]
+}

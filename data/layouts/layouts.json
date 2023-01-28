@@ -4810,6 +4810,16 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/BoreanIsland_Cave/border.bin",
       "blockdata_filepath": "data/layouts/BoreanIsland_Cave/map.bin"
+    },
+    {
+      "id": "LAYOUT_BOREAN_ISLAND_INTERIORS",
+      "name": "BoreanIsland_Interiors_Layout",
+      "width": 8,
+      "height": 24,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/BoreanIsland_Interiors/border.bin",
+      "blockdata_filepath": "data/layouts/BoreanIsland_Interiors/map.bin"
     }
   ]
 }

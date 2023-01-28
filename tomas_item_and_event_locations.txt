@@ -42,6 +42,12 @@ PyreWoods Southeast
 PyreWoods Gym
 0, 15
 
+---------------------
+
+Borean Island North
+33, 21
+28, 18
+
 ------------------------------------------
 Events
 

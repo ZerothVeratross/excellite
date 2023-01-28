@@ -648,7 +648,8 @@
   "gMapGroup_NewIslands": [
     "BoreanIsland_South",
     "BoreanIsland_North",
-    "BoreanIsland_Cave"
+    "BoreanIsland_Cave",
+    "BoreanIsland_Interiors"
   ],
   "gMapGroup_NewDungeons": [
     "RusturfTunnel2",
